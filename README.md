@@ -2,7 +2,20 @@
 
 # Slide–Narration Annotation Data
 
-This package contains five lectures with **192 slides and 1,510 Narration Units (NUs)**, plus a one-slide annotated example with 9 NUs. Annotators compare each NU with the slide image and narration, then assign labels following the manual. ([English](manual/ANNOTATOR_MANUAL_EN.md) | [Japanese](manual/ANNOTATOR_MANUAL_JA.md))
+This package contains five lectures with **192 slides and 1,506 Narration Units (NUs)**, plus a one-slide annotated example with 9 NUs. Annotators compare each NU with the slide image and narration, then assign labels following the manual. ([English](manual/ANNOTATOR_MANUAL_EN.md) | [Japanese](manual/ANNOTATOR_MANUAL_JA.md))
+
+## Data statistics
+
+These figures are recalculated from the five lecture files; the one-slide `example` is excluded. English words are counted by splitting on whitespace. Averages are calculated from the totals and rounded to one decimal place.
+
+| Field and lecture | Slides | Avg. narration words/slide | NUs | Avg. NUs/slide | Avg. words/NU |
+|---|---:|---:|---:|---:|---:|
+| Introduction to Psychology (PSY101/1) | 16 | 625.3 | 258 | 16.1 | 38.5 |
+| Developmental Psychology (/13) | 18 | 336.8 | 190 | 10.6 | 31.8 |
+| Essay Writing and Presentation Skills (/21) | 33 | 251.0 | 284 | 8.6 | 28.5 |
+| Essay Writing and Presentation Skills (/23) | 44 | 208.0 | 333 | 7.6 | 27.0 |
+| Questionnaire Design (IPP-9EF18) | 81 | 100.1 | 441 | 5.4 | 18.3 |
+| **Total** | **192** | **216.7** | **1,506** | **7.8** | **27.3** |
 
 ## Files
 
