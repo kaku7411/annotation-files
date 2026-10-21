@@ -10,7 +10,7 @@
     "example_s011_u03": {
       "label": "implicit_lecture_content",
       "sublabel": "concept_clarification",
-      "topic": "type 2 diabetes involves more than body weight alone"
+      "not_on_slide_span": "more than just simply being too fat"
     },
     "example_s011_u04": {
       "label": "figure_formula_explanation"
@@ -25,7 +25,7 @@
     "example_s011_u07": {
       "label": "implicit_lecture_content",
       "sublabel": "contextual_knowledge",
-      "topic": "allied-health courses may discuss additional types of diabetes"
+      "not_on_slide_span": "allied health fields, you'll might even discuss up to five different types of diabetes"
     },
     "example_s011_u08": {
       "label": "metadiscourse",

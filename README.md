@@ -47,7 +47,7 @@ The following is a shortened excerpt of `lectures/example.json`. Each slide in t
 
 ### Annotation result (`results/<name>.json`)
 
-`annotations` is keyed by `unit_id`. Each annotation has a primary `label`; `sublabel`, `topic`, and `note` are added when applicable. For an NU whose judgment is pending, leave `label` empty (`""`) and give the reason in `note`. The five lecture result files start with empty `annotations`; `results/example.json` contains completed annotations.
+`annotations` is keyed by `unit_id`. Each annotation has a primary `label`; `sublabel`, `not_on_slide_span`, and `note` are added when applicable. For an NU whose judgment is pending, leave `label` empty (`""`) and give the reason in `note`. The five lecture result files start with empty `annotations`; `results/example.json` contains completed annotations.
 
 ```json
 {
@@ -56,7 +56,7 @@ The following is a shortened excerpt of `lectures/example.json`. Each slide in t
     "example_s011_u03": {
       "label": "implicit_lecture_content",
       "sublabel": "concept_clarification",
-      "topic": "type 2 diabetes involves more than body weight alone"
+      "not_on_slide_span": "more than just simply being too fat"
     }
   }
 }

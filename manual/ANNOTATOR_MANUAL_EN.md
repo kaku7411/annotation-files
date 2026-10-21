@@ -43,7 +43,7 @@ Each **slide entry** in the lecture input file contains these three items:
 
 ![Example slide showing types of diabetes](example_images/example/slide_0011.jpg)
 
-Figure 2.1: The current slide image.
+Figure 2.1: Example slide image
 
 **Original narration for this slide (beginning and end; the middle is omitted with “…”):**
 
@@ -82,7 +82,7 @@ Refer to the slide and narration and assign a label to each NU.
 | `invalid_nu` | An NU that remains unintelligible even after checking the context because of a cut-off utterance or a clear speech or transcription error. |
 
 1. Refer to the slide and narration and select one primary label for each NU.
-2. For `implicit_lecture_content`, enter a short phrase describing the added information in `topic`, and enter one ILC category in `sublabel`.
+2. For `implicit_lecture_content`, copy the part of the NU that is not written on the slide into `not_on_slide_span`, and enter one ILC category in `sublabel`.
 3. For `metadiscourse`, enter one metadiscourse function in `sublabel`.
 4. If you select `other` as the `sublabel`, briefly describe in `note` the category you think is missing and why.
 
@@ -112,7 +112,7 @@ First make sure you understand what each NU says. Then **start at step 1 and sel
 |---|---|
 | `on_slide_content` | None |
 | `figure_formula_explanation` | None |
-| `implicit_lecture_content` | `topic` (short phrase) + one `sublabel` (ILC category) |
+| `implicit_lecture_content` | `not_on_slide_span` (exact excerpt from the NU) + one `sublabel` (ILC category) |
 | `metadiscourse` | One `sublabel` (metadiscourse function) |
 | `unrelated_content` | None |
 | `invalid_nu` | None |
@@ -143,14 +143,16 @@ Use this label when the NU **adds information that helps explain a topic on the 
 
 **Also record:**
 
-1. `topic`: a short phrase describing the added information.
+1. `not_on_slide_span`: the part of the NU that you judge is not written on the slide. Copy it exactly from the NU's `text` (do not paraphrase or summarize).
+   - If the relevant content appears in separate places, copy the shortest continuous span that includes all of them.
+   - If the entire NU is not written on the slide, copy the entire NU.
 2. `sublabel`: the one ILC category that best describes the function of the added information. If none of the five categories fits, select `other` and briefly describe in `note` the category you think is missing and why.
 
 ##### Overview of ILC categories
 
 The table lists the five ILC categories (sublabels) and their subtypes.
 
-**Enter one ILC category in `sublabel` and a short phrase in `topic`.** Subtypes are for reference only and do not need to be recorded.
+**Enter one ILC category in `sublabel` and copy the part not written on the slide into `not_on_slide_span`.** Subtypes are for reference only and do not need to be recorded.
 
 | Category | Definition | Included subtypes |
 | --- | --- | --- |
@@ -279,10 +281,13 @@ The slide (`slide_index: 11`) comes from `lectures/example.json`; its annotation
 |---|---|---|---|
 | `example_s011_u01` | When it comes to diabetes, most of us know there are two types: type 1, type 2. | `on_slide_content` | None |
 | `example_s011_u02` | The way I always remember type 2 is that you're too fat. | `on_slide_content` | None |
-| `example_s011_u03` | And it's more than just simply being too fat, but that's what we tend to talk about. | `implicit_lecture_content` | `sublabel`: `concept_clarification`<br>`topic`: `type 2 diabetes involves more than body weight alone` |
+| `example_s011_u03` | And it's more than just simply being too fat, but that's what we tend to talk about. | `implicit_lecture_content` | `sublabel`: `concept_clarification`<br>`not_on_slide_span`: `more than just simply being too fat` |
 | `example_s011_u04` | As you can see in the chart, there's a lot more type 2 diabetes than there is type 1. | `figure_formula_explanation` | None |
 | `example_s011_u05` | Now, there is a third type of diabetes, which is basically women who are pregnant who get elevated glucose levels during pregnancy. | `on_slide_content` | None |
 | `example_s011_u06` | But for most of us, we tend to you've only type 1 and type 2. | `metadiscourse` | `sublabel`: `audience_interaction` |
-| `example_s011_u07` | Those of you who are going into the allied health fields, you'll might even discuss up to five different types of diabetes. | `implicit_lecture_content` | `sublabel`: `contextual_knowledge`<br>`topic`: `allied-health courses may discuss additional types of diabetes` |
+| `example_s011_u07` | Those of you who are going into the allied health fields, you'll might even discuss up to five different types of diabetes. | `implicit_lecture_content` | `sublabel`: `contextual_knowledge`<br>`not_on_slide_span`: `allied health fields, you'll might even discuss up to five different types of diabetes` |
 | `example_s011_u08` | But for us, for this class, type 1, type 2, and remember type 2 is because you're too fat. | `metadiscourse` | `sublabel`: `organization_management` |
 | `example_s011_u09` | As I always like to do, give you a little hints to help you remember things. | `metadiscourse` | `sublabel`: `speaker_stance` |
+
+For `example_s011_u03`, the slide says “Too Fat,” but it does not say that type 2 diabetes involves more than simply being too fat, so that part of the NU is copied.
+For `example_s011_u07`, the slide shows only three types of diabetes and does not say that allied-health fields may discuss up to five. Because “allied health fields” and “five different types” are separated in the NU, the shortest continuous span containing both is copied.

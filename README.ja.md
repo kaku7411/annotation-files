@@ -47,7 +47,7 @@
 
 ### アノテーション結果（`results/<name>.json`）
 
-`annotations` のキーは `unit_id` です。各項目には主ラベルを `label` に記入し、必要に応じて `sublabel`、`topic`、`note` を追加します。判断を保留する NU は `label` を空欄（`""`）にし、`note` に理由を記入します。講義5本分の結果ファイルは `annotations` が空の状態で配布しており、`results/example.json` には記入済みの結果が入っています。
+`annotations` のキーは `unit_id` です。各項目には主ラベルを `label` に記入し、必要に応じて `sublabel`、`not_on_slide_span`、`note` を追加します。判断を保留する NU は `label` を空欄（`""`）にし、`note` に理由を記入します。講義5本分の結果ファイルは `annotations` が空の状態で配布しており、`results/example.json` には記入済みの結果が入っています。
 
 ```json
 {
@@ -56,7 +56,7 @@
     "example_s011_u03": {
       "label": "implicit_lecture_content",
       "sublabel": "concept_clarification",
-      "topic": "type 2 diabetes involves more than body weight alone"
+      "not_on_slide_span": "more than just simply being too fat"
     }
   }
 }

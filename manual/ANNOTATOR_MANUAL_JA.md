@@ -82,7 +82,7 @@
 | `invalid_nu` | 発話の途切れや、明らかな言い間違い・文字起こしの誤りなどにより、文脈を確認しても内容を理解できない NU。 |
 
 1. NU ごとに、スライドとナレーションを参照して主ラベルを1つ選ぶ。
-2. `implicit_lecture_content` を選んだ場合は、補足内容を表す短い語句を `topic` に記入し、ILC分類を1つ `sublabel` に記入する。
+2. `implicit_lecture_content` を選んだ場合は、NU のうちスライドに書かれていない部分を `not_on_slide_span` に抜き出し、ILC分類を1つ `sublabel` に記入する。
 3. `metadiscourse` を選んだ場合は、メタ談話の機能分類を1つ `sublabel` に記入する。
 4. `sublabel` に `other` を選んだ場合は、必要と考えた分類とその理由を `note` に簡潔に記入する。
 
@@ -112,7 +112,7 @@
 |---|---|
 | `on_slide_content` | なし |
 | `figure_formula_explanation` | なし |
-| `implicit_lecture_content` | `topic`（短い語句）＋ `sublabel`（ILC分類）1つ |
+| `implicit_lecture_content` | `not_on_slide_span`（NU からの抜き出し）＋ `sublabel`（ILC分類）1つ |
 | `metadiscourse` | `sublabel`（機能分類）1つ |
 | `unrelated_content` | なし |
 | `invalid_nu` | なし |
@@ -143,14 +143,16 @@ NU の内容が、スライドの図、表、数式、グラフ、画像など�
 
 **追加入力：**
 
-1. `topic`：補足内容を表す短い語句。
+1. `not_on_slide_span`：NU のうち、スライドに書かれていないと判断した部分。NU の `text` から該当部分をそのままコピーする（言い換えや要約はしない）。
+   - 該当部分が複数箇所に分かれている場合は、それらをすべて含む最短の連続した範囲をコピーする。
+   - NU 全体がスライドに書かれていない内容であれば、NU 全体をコピーする。
 2. `sublabel`：補足内容が果たしている役割に最も近い ILC分類を1つ。5つの分類のいずれにも当てはまらない場合は `other` を選び、必要と考えた分類とその理由を `note` に簡潔に記入する。
 
 ##### ILC分類一覧
 
 以下に、ILC分類（サブラベル）5つと、それぞれに含まれる細分類を示す。
 
-**ILC分類を1つ選んで `sublabel` に記入し、補足内容を `topic` に記入する。** 細分類は判断の目安であり、記入は不要。
+**ILC分類を1つ選んで `sublabel` に記入し、スライドに書かれていない部分を `not_on_slide_span` に抜き出す。** 細分類は判断の目安であり、記入は不要。
 
 | 分類 | 定義 | 含まれる細分類 |
 | --- | --- | --- |
@@ -279,10 +281,13 @@ NU の内容が、スライドの図、表、数式、グラフ、画像など�
 |---|---|---|---|
 | `example_s011_u01` | When it comes to diabetes, most of us know there are two types: type 1, type 2. | `on_slide_content` | なし |
 | `example_s011_u02` | The way I always remember type 2 is that you're too fat. | `on_slide_content` | なし |
-| `example_s011_u03` | And it's more than just simply being too fat, but that's what we tend to talk about. | `implicit_lecture_content` | `sublabel`: `concept_clarification`<br>`topic`: `type 2 diabetes involves more than body weight alone` |
+| `example_s011_u03` | And it's more than just simply being too fat, but that's what we tend to talk about. | `implicit_lecture_content` | `sublabel`: `concept_clarification`<br>`not_on_slide_span`: `more than just simply being too fat` |
 | `example_s011_u04` | As you can see in the chart, there's a lot more type 2 diabetes than there is type 1. | `figure_formula_explanation` | なし |
 | `example_s011_u05` | Now, there is a third type of diabetes, which is basically women who are pregnant who get elevated glucose levels during pregnancy. | `on_slide_content` | なし |
 | `example_s011_u06` | But for most of us, we tend to you've only type 1 and type 2. | `metadiscourse` | `sublabel`: `audience_interaction` |
-| `example_s011_u07` | Those of you who are going into the allied health fields, you'll might even discuss up to five different types of diabetes. | `implicit_lecture_content` | `sublabel`: `contextual_knowledge`<br>`topic`: `allied-health courses may discuss additional types of diabetes` |
+| `example_s011_u07` | Those of you who are going into the allied health fields, you'll might even discuss up to five different types of diabetes. | `implicit_lecture_content` | `sublabel`: `contextual_knowledge`<br>`not_on_slide_span`: `allied health fields, you'll might even discuss up to five different types of diabetes` |
 | `example_s011_u08` | But for us, for this class, type 1, type 2, and remember type 2 is because you're too fat. | `metadiscourse` | `sublabel`: `organization_management` |
 | `example_s011_u09` | As I always like to do, give you a little hints to help you remember things. | `metadiscourse` | `sublabel`: `speaker_stance` |
+
+`example_s011_u03` では、スライドに「Too Fat」とは書かれているが、「単に太りすぎというだけではない」という点は書かれていないため、その部分を抜き出している。
+`example_s011_u07` では、スライドには3種類の糖尿病しか示されておらず、「医療系の分野では最大5種類を扱う」という点は書かれていない。「allied health fields」と「five different types」が離れているため、両方を含む最短の範囲を抜き出している。
