@@ -1,0 +1,613 @@
+{
+  "lecture_id": "OralMedicineINBDE/5",
+  "source_dataset": "lpm",
+  "video_url": "https://www.youtube.com/watch?v=pfFrVkgguvo",
+  "slides": [
+    {
+      "slide_index": 0,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0000.jpg",
+      "start_time": 4.7,
+      "end_time": 60.64,
+      "narration": "Hey everyone, Ryan here, and welcome back to our oral medicine series. I'm really looking forward to this video because cardiopulmonary resuscitation and the emergency response is something that is so, so important to be familiar with. You know, one evening I was out with friends at an outdoor restaurant, and someone was riding their bike and got hit at a nearby intersection. They were unconscious on the ground, and we needed to respond quickly. So you never know when this information will come in handy. I want to be very clear though, this video is not a substitute for an official certification or recertification course by the American Heart Association. You can certainly use this video for a refresher or to, of course, study for the board exam, but this does not certify you for basic or advanced life support.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s000_u01",
+          "text": "Hey everyone, Ryan here, and welcome back to our oral medicine series.",
+          "start_time": 6.6,
+          "end_time": 11.08
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s000_u02",
+          "text": "I'm really looking forward to this video because cardiopulmonary resuscitation and the emergency response is something that is so, so important to be familiar with.",
+          "start_time": 11.48,
+          "end_time": 21.32
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s000_u03",
+          "text": "You know, one evening I was out with friends at an outdoor restaurant, and someone was riding their bike and got hit at a nearby intersection. They were unconscious on the ground, and we needed to respond quickly.",
+          "start_time": 21.88,
+          "end_time": 34.6
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s000_u04",
+          "text": "So you never know when this information will come in handy.",
+          "start_time": 34.84,
+          "end_time": 38.76
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s000_u05",
+          "text": "I want to be very clear though, this video is not a substitute for an official certification or recertification course by the American Heart Association. You can certainly use this video for a refresher or to, of course, study for the board exam, but this does not certify you for basic or advanced life support.",
+          "start_time": 39.24,
+          "end_time": 59.96
+        }
+      ]
+    },
+    {
+      "slide_index": 1,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0001.jpg",
+      "start_time": 60.64,
+      "end_time": 172.55,
+      "narration": "So let's get started with my mental checklist. I have five A's that you should do in an emergency situation when you see someone passed out, lying on the floor, et cetera. So the first thing to do is to verify the safety of your surroundings. You know, for my example, the victim was in the middle of a busy intersection, so other bystanders blocked off traffic. Another example, if someone passes out in the dental chair, you know, are there any sharp or dangerous instruments that could potentially pose a threat to people in the scenario? Next would be to check responsiveness. So the classic thing to do is to tap the victim firmly on their shoulder, say, \"Hey, are you okay?\" And if they're unresponsive, you should be starting to think CPR might be likely. Next would be you're going to need some backup, so you want to get help, especially if the victim is unresponsive. You want to get people and then delegate certain tasks. Next would be to check for breathing and pulse. So you should check for both simultaneously in about 10 seconds. You don't want to spend too much time on this step because all of these things should be happening in rapid succession. We want to get to CPR as soon as possible, if in fact that's what's necessary. And then lastly, we activate EMS. That's the emergency medical services, which basically means we want to get professional help. So this would involve calling 911. We could also get an AED, that's an automated external defibrillator. We'll talk more about that later. We want to clear out any non-essential bystanders and then flag down the ambulance once it gets on the scene.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u01",
+          "text": "So let's get started with my mental checklist. I have five A's that you should do in an emergency situation when you see someone passed out, lying on the floor, et cetera.",
+          "start_time": 61.34,
+          "end_time": 72.3
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u02",
+          "text": "So the first thing to do is to verify the safety of your surroundings.",
+          "start_time": 72.7,
+          "end_time": 78.78
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u03",
+          "text": "You know, for my example, the victim was in the middle of a busy intersection, so other bystanders blocked off traffic.",
+          "start_time": 79.42,
+          "end_time": 87.18
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u04",
+          "text": "Another example, if someone passes out in the dental chair, you know, are there any sharp or dangerous instruments that could potentially pose a threat to people in the scenario?",
+          "start_time": 87.74,
+          "end_time": 97.98
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u05",
+          "text": "Next would be to check responsiveness.",
+          "start_time": 98.94,
+          "end_time": 101.1
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u06",
+          "text": "So the classic thing to do is to tap the victim firmly on their shoulder, say, \"Hey, are you okay?\" And if they're unresponsive, you should be starting to think CPR might be likely.",
+          "start_time": 101.42,
+          "end_time": 113.26
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u07",
+          "text": "Next would be you're going to need some backup, so you want to get help, especially if the victim is unresponsive.",
+          "start_time": 113.82,
+          "end_time": 120.06
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u08",
+          "text": "You want to get people and then delegate certain tasks.",
+          "start_time": 120.3,
+          "end_time": 123.74
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u09",
+          "text": "Next would be to check for breathing and pulse.",
+          "start_time": 124.38,
+          "end_time": 127.34
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u10",
+          "text": "So you should check for both simultaneously in about 10 seconds. You don't want to spend too much time on this step because all of these things should be happening in rapid succession.",
+          "start_time": 127.82,
+          "end_time": 138.86
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u11",
+          "text": "We want to get to CPR as soon as possible, if in fact that's what's necessary.",
+          "start_time": 138.86,
+          "end_time": 144.62
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u12",
+          "text": "And then lastly, we activate EMS. That's the emergency medical services, which basically means we want to get professional help.",
+          "start_time": 145.66,
+          "end_time": 154.22
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u13",
+          "text": "So this would involve calling 911.",
+          "start_time": 154.62,
+          "end_time": 156.78
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u14",
+          "text": "We could also get an AED, that's an automated external defibrillator.",
+          "start_time": 156.86,
+          "end_time": 162.14
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u15",
+          "text": "We'll talk more about that later.",
+          "start_time": 162.22,
+          "end_time": 163.58
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s001_u16",
+          "text": "We want to clear out any non-essential bystanders and then flag down the ambulance once it gets on the scene.",
+          "start_time": 164.14,
+          "end_time": 171.82
+        }
+      ]
+    },
+    {
+      "slide_index": 2,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0002.jpg",
+      "start_time": 172.55,
+      "end_time": 297.74,
+      "narration": "So there are three possible scenarios for a victim who is not responsive. Remember, step two was to check for consciousness, and then step four was to check for breathing and pulse. So let's look at the breathing and the pulse possibilities. So first scenario, let's say pulse is normal and breathing is normal. Well, we would want to monitor that person and stay with them until the emergency responders get there. Let's say the pulse is there but the breathing is abnormal. Maybe there's gasping, maybe they're not breathing at all. This means the heart is still working just fine, but the lungs are struggling. So it could be from a severe asthma attack, some anaphylactic shock, choking, or someone who's nearly drowned. This is called respiratory arrest. So for this situation, we want to maintain an open airway and begin rescue breathing. We'll talk more about what that means in a later slide. For number three, what if the pulse is absent and the breathing is absent or abnormal? So this is called, when the pulse is no longer present, the heart's not working, that's called cardiac arrest, and it does require CPR. And to be clear, there's a difference between this and a heart attack. So cardiac arrest is an electrical problem. That's where the heart malfunctions and suddenly stops beating properly. A heart attack is a circulation problem where blood flow to the heart is physically blocked, depriving it of its oxygen. And then over here, having no pulse along with normal breathing would be a very rare, if impossible, scenario. But if for some reason that was the case, I would also say that's an indication to start CPR.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u01",
+          "text": "So there are three possible scenarios for a victim who is not responsive.",
+          "start_time": 173.25,
+          "end_time": 178.21
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u02",
+          "text": "Remember, step two was to check for consciousness, and then step four was to check for breathing and pulse.",
+          "start_time": 178.21,
+          "end_time": 185.09
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u03",
+          "text": "So let's look at the breathing and the pulse possibilities.",
+          "start_time": 185.49,
+          "end_time": 190.05
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u04",
+          "text": "So first scenario, let's say pulse is normal and breathing is normal. Well, we would want to monitor that person and stay with them until the emergency responders get there.",
+          "start_time": 190.53,
+          "end_time": 201.41
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u05",
+          "text": "Let's say the pulse is there but the breathing is abnormal.",
+          "start_time": 202.77,
+          "end_time": 207.25
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u06",
+          "text": "Maybe there's gasping, maybe they're not breathing at all.",
+          "start_time": 207.81,
+          "end_time": 210.45
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u07",
+          "text": "This means the heart is still working just fine, but the lungs are struggling. So it could be from a severe asthma attack, some anaphylactic shock, choking, or someone who's nearly drowned. This is called respiratory arrest.",
+          "start_time": 210.45,
+          "end_time": 227.49
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u08",
+          "text": "So for this situation, we want to maintain an open airway and begin rescue breathing.",
+          "start_time": 227.97,
+          "end_time": 234.69
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u09",
+          "text": "We'll talk more about what that means in a later slide.",
+          "start_time": 235.01,
+          "end_time": 237.89
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u10",
+          "text": "For number three, what if the pulse is absent and the breathing is absent or abnormal? So this is called, when the pulse is no longer present, the heart's not working, that's called cardiac arrest, and it does require CPR.",
+          "start_time": 239.73,
+          "end_time": 256.77
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u11",
+          "text": "And to be clear, there's a difference between this and a heart attack.",
+          "start_time": 257.41,
+          "end_time": 261.81
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u12",
+          "text": "So cardiac arrest is an electrical problem. That's where the heart malfunctions and suddenly stops beating properly.",
+          "start_time": 262.21,
+          "end_time": 269.25
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u13",
+          "text": "A heart attack is a circulation problem where blood flow to the heart is physically blocked, depriving it of its oxygen.",
+          "start_time": 270.05,
+          "end_time": 280.61
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s002_u14",
+          "text": "And then over here, having no pulse along with normal breathing would be a very rare, if impossible, scenario. But if for some reason that was the case, I would also say that's an indication to start CPR.",
+          "start_time": 282.13,
+          "end_time": 296.45
+        }
+      ]
+    },
+    {
+      "slide_index": 3,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0003.jpg",
+      "start_time": 297.74,
+      "end_time": 392.95,
+      "narration": "So with the newest CPR guidelines, we follow what's called C-A-B. That stands for compressions, airway, and breathing. And that's the order that we do those three things. So now we start with compressions in order to reduce the delay to the first compression. So compressions should be done as pictured here. We want to kneel at the victim's side, and the victim should be face up on a firm surface for more efficient force to generate blood flow. We want to be compressing on the lower half of the sternum. That's this breastbone, this long, flat bone at the center of the chest connected to the ribs. We want to be approximately between the nipples. We want to use two hands with CPR compressions. They're locked with the arms straight, and the shoulders should be positioned over those hands. We should be compressing two inches, and we want to be doing our compressions hard and fast at a rate of 100 to 120 compressions per minute. The classic beats per minute goes along with the song \"Stayin' Alive\" by the Bee Gees. We want to limit interruptions in chest compressions to less than 10 seconds, and we want to allow the chest to fully recoil after each compression. And in total, we want to be doing 30 compressions in each cycle of CPR.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u01",
+          "text": "So with the newest CPR guidelines, we follow what's called C-A-B. That stands for compressions, airway, and breathing. And that's the order that we do those three things.",
+          "start_time": 299.08,
+          "end_time": 310.76
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u02",
+          "text": "So now we start with compressions in order to reduce the delay to the first compression.",
+          "start_time": 310.92,
+          "end_time": 317.08
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u03",
+          "text": "So compressions should be done as pictured here. We want to kneel at the victim's side, and the victim should be face up on a firm surface for more efficient force to generate blood flow.",
+          "start_time": 317.88,
+          "end_time": 329.8
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u04",
+          "text": "We want to be compressing on the lower half of the sternum. That's this breastbone, this long, flat bone at the center of the chest connected to the ribs. We want to be approximately between the nipples.",
+          "start_time": 330.36,
+          "end_time": 343.96
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u05",
+          "text": "We want to use two hands with CPR compressions. They're locked with the arms straight, and the shoulders should be positioned over those hands.",
+          "start_time": 344.84,
+          "end_time": 354.2
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u06",
+          "text": "We should be compressing two inches, and we want to be doing our compressions hard and fast at a rate of 100 to 120 compressions per minute.",
+          "start_time": 355.8,
+          "end_time": 366.2
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u07",
+          "text": "The classic beats per minute goes along with the song \"Stayin' Alive\" by the Bee Gees.",
+          "start_time": 366.76,
+          "end_time": 373.0
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u08",
+          "text": "We want to limit interruptions in chest compressions to less than 10 seconds,",
+          "start_time": 373.88,
+          "end_time": 379.24
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u09",
+          "text": "and we want to allow the chest to fully recoil after each compression.",
+          "start_time": 379.72,
+          "end_time": 384.52
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s003_u10",
+          "text": "And in total, we want to be doing 30 compressions in each cycle of CPR.",
+          "start_time": 385.64,
+          "end_time": 392.04
+        }
+      ]
+    },
+    {
+      "slide_index": 4,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0004.jpg",
+      "start_time": 392.95,
+      "end_time": 452.44,
+      "narration": "After compressions, just prior to administering your breaths, you need to establish a stable airway. How we do this is with the head tilt chin lift. So this involves placing one hand on the forehead to pull the head back, and then two fingers with the other hand under the chin to lift it up. And what this does is it stretches the anterior neck muscles and lifts the tongue away from the back of the throat. Alternatively, if you suspect some cervical spine injury, then you use the jaw thrust instead, which involves placing yourself at the top of the patient's head and placing the fingers of both hands on either side of the mandible, and then applying forward and upward pressure to slide the mandible into a protrusive position while putting less potential strain on the neck.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s004_u01",
+          "text": "After compressions, just prior to administering your breaths, you need to establish a stable airway. How we do this is with the head tilt chin lift.",
+          "start_time": 393.73,
+          "end_time": 405.17
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s004_u02",
+          "text": "So this involves placing one hand on the forehead to pull the head back, and then two fingers with the other hand under the chin to lift it up.",
+          "start_time": 405.49,
+          "end_time": 415.97
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s004_u03",
+          "text": "And what this does is it stretches the anterior neck muscles and lifts the tongue away from the back of the throat.",
+          "start_time": 416.61,
+          "end_time": 424.53
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s004_u04",
+          "text": "Alternatively, if you suspect some cervical spine injury, then you use the jaw thrust instead, which involves placing yourself at the top of the patient's head and placing the fingers of both hands on either side of the mandible, and then applying forward and upward pressure to slide the mandible into a protrusive position while putting less potential strain on the neck.",
+          "start_time": 425.41,
+          "end_time": 451.01
+        }
+      ]
+    },
+    {
+      "slide_index": 5,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0005.jpg",
+      "start_time": 452.44,
+      "end_time": 483.13,
+      "narration": "So rescue breathing in the context of CPR is very quick. We're talking two breaths per cycle, each one lasting one second, and just enough air to make the chest visibly rise. And you can appreciate the head tilt chin lift posture executed here while those breaths are administered. And this also allows the rescuer to be looking for that chest rise.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s005_u01",
+          "text": "So rescue breathing in the context of CPR is very quick. We're talking two breaths per cycle, each one lasting one second, and just enough air to make the chest visibly rise.",
+          "start_time": 453.94,
+          "end_time": 468.58
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s005_u02",
+          "text": "And you can appreciate the head tilt chin lift posture executed here while those breaths are administered. And this also allows the rescuer to be looking for that chest rise.",
+          "start_time": 469.06,
+          "end_time": 482.02
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0006.jpg",
+      "start_time": 483.13,
+      "end_time": 612.1,
+      "narration": "So during this process of the CPR cycle, we're setting up the automated external defibrillator, and this is designed to stop an abnormally beating heart. Now, what you might be asking is, well, I thought that we do CPR on patients with no pulse or no heartbeat. So shouldn't this device be designed to start the heart and start a heartbeat? Well, the answer is no. It's actually designed as more of a reset button rather than a jump start. And the reason is that victim might actually have an undetectable pulse, but their heart is, it's not functioning properly, there's an irregular heartbeat, and it's not pumping blood through the body like it's designed to do. And so that might not be true for every victim, but if they do have this kind of irregular heartbeat scenario, the AED would recognize that as a shockable rhythm, and then it would advise the rescuers to then at some point deliver a shock to the system in an attempt to stop that abnormal heartbeat, and then allow the heart to reset into a more normal heartbeat. So we need clean, dry skin in order for these pads to work, and we would turn the device on and attach those pads to the upper right and lower left of the chest. And for children, we want to use adult pads if they're over the age of eight. Otherwise, there are smaller pads that we would use for children. If we've witnessed the cardiac arrest, which means we've, we were on the scene when this happened, we would use the AED on arrival as soon as we can. If we didn't witness the cardiac arrest and it could have happened several minutes ago, we would actually hold off on using the AED after about five cycles of CPR, which equates to about two minutes.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s006_u01",
+          "text": "So during this process of the CPR cycle, we're setting up the automated external defibrillator, and this is designed to stop an abnormally beating heart.",
+          "start_time": 484.24,
+          "end_time": 496.4
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s006_u02",
+          "text": "Now, what you might be asking is, well, I thought that we do CPR on patients with no pulse or no heartbeat. So shouldn't this device be designed to start the heart and start a heartbeat? Well, the answer is no. It's actually designed as more of a reset button rather than a jump start.",
+          "start_time": 497.04,
+          "end_time": 518.24
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s006_u03",
+          "text": "And the reason is that victim might actually have an undetectable pulse, but their heart is, it's not functioning properly, there's an irregular heartbeat, and it's not pumping blood through the body like it's designed to do.",
+          "start_time": 518.64,
+          "end_time": 534.32
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s006_u04",
+          "text": "And so that might not be true for every victim, but if they do have this kind of irregular heartbeat scenario, the AED would recognize that as a shockable rhythm, and then it would advise the rescuers to then at some point deliver a shock to the system in an attempt to stop that abnormal heartbeat, and then allow the heart to reset into a more normal heartbeat.",
+          "start_time": 534.8,
+          "end_time": 563.52
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s006_u05",
+          "text": "So we need clean, dry skin in order for these pads to work, and we would turn the device on and attach those pads to the upper right and lower left of the chest.",
+          "start_time": 564.4,
+          "end_time": 575.12
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s006_u06",
+          "text": "And for children, we want to use adult pads if they're over the age of eight. Otherwise, there are smaller pads that we would use for children.",
+          "start_time": 576.0,
+          "end_time": 585.2
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s006_u07",
+          "text": "If we've witnessed the cardiac arrest, which means we've, we were on the scene when this happened, we would use the AED on arrival as soon as we can.",
+          "start_time": 586.08,
+          "end_time": 596.32
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s006_u08",
+          "text": "If we didn't witness the cardiac arrest and it could have happened several minutes ago, we would actually hold off on using the AED after about five cycles of CPR, which equates to about two minutes.",
+          "start_time": 596.88,
+          "end_time": 611.12
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0007.jpg",
+      "start_time": 612.1,
+      "end_time": 711.83,
+      "narration": "There are a few additions to keep in mind for children and infants when it comes to CPR. So to check for a pulse, we want to use the carotid artery for children as well as for adults, but we want to use the brachial artery on the arm for babies. How I remember this is that C and C line up together, B and B line up together. So we want to start CPR immediately if there's an unwitnessed collapse, which means there's no time to waste. We want to get started on compressions immediately, even before checking things like pulse or breaths. As far as how much force to apply, we would use one hand for small children and two fingers for infants when it comes to those compressions. We would want to compress one third the depth of the chest cavity for both children and infants. And this one's really important. So 30 compressions to two breaths is our typical cycle, except when you have two rescuers and the victim is a child or infant. So why we change to 15 compressions for every two breaths, if the victim's a child or infant and we have two rescuers available, is because you have more hands to help, and younger victims are more air hungry. So you can afford to switch out more and do 15 per every two breaths rather than 30 compressions for every two breaths.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u01",
+          "text": "There are a few additions to keep in mind for children and infants when it comes to CPR.",
+          "start_time": 613.12,
+          "end_time": 619.68
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u02",
+          "text": "So to check for a pulse, we want to use the carotid artery for children as well as for adults, but we want to use the brachial artery on the arm for babies.",
+          "start_time": 620.24,
+          "end_time": 631.12
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u03",
+          "text": "How I remember this is that C and C line up together, B and B line up together.",
+          "start_time": 631.52,
+          "end_time": 638.56
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u04",
+          "text": "So we want to start CPR immediately if there's an unwitnessed collapse, which means there's no time to waste. We want to get started on compressions immediately, even before checking things like pulse or breaths.",
+          "start_time": 639.68,
+          "end_time": 654.72
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u05",
+          "text": "As far as how much force to apply, we would use one hand for small children and two fingers for infants when it comes to those compressions.",
+          "start_time": 655.92,
+          "end_time": 665.6
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u06",
+          "text": "We would want to compress one third the depth of the chest cavity for both children and infants.",
+          "start_time": 666.08,
+          "end_time": 671.84
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u07",
+          "text": "And this one's really important.",
+          "start_time": 672.4,
+          "end_time": 674.24
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u08",
+          "text": "So 30 compressions to two breaths is our typical cycle, except when you have two rescuers and the victim is a child or infant.",
+          "start_time": 674.56,
+          "end_time": 686.08
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s007_u09",
+          "text": "So why we change to 15 compressions for every two breaths, if the victim's a child or infant and we have two rescuers available, is because you have more hands to help, and younger victims are more air hungry. So you can afford to switch out more and do 15 per every two breaths rather than 30 compressions for every two breaths.",
+          "start_time": 686.72,
+          "end_time": 710.72
+        }
+      ]
+    },
+    {
+      "slide_index": 8,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0008.jpg",
+      "start_time": 711.83,
+      "end_time": 754.9,
+      "narration": "So rescue breathing alone is something that's done for someone with a pulse but abnormal breathing, again called respiratory arrest. So the heart is fine. We just have to focus on revitalizing the respiratory system. So once again, children are more air hungry. So we would do one breath every three seconds for a kid and one breath every five seconds for an adult. And how I remember this is kid has three letters, adult has five letters. So nice and easy, quick tip to learn the rescue breaths.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s008_u01",
+          "text": "So rescue breathing alone is something that's done for someone with a pulse but abnormal breathing, again called respiratory arrest. So the heart is fine. We just have to focus on revitalizing the respiratory system.",
+          "start_time": 713.73,
+          "end_time": 730.37
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s008_u02",
+          "text": "So once again, children are more air hungry.",
+          "start_time": 731.01,
+          "end_time": 734.13
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s008_u03",
+          "text": "So we would do one breath every three seconds for a kid and one breath every five seconds for an adult.",
+          "start_time": 734.61,
+          "end_time": 742.13
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s008_u04",
+          "text": "And how I remember this is kid has three letters, adult has five letters. So nice and easy, quick tip to learn the rescue breaths.",
+          "start_time": 742.77,
+          "end_time": 753.89
+        }
+      ]
+    },
+    {
+      "slide_index": 9,
+      "image_path": "slide_images/OralMedicineINBDE_5/slide_0009.jpg",
+      "start_time": 754.9,
+      "end_time": 889.0,
+      "narration": "And then the last thing we need to talk about in this video is choking or foreign body obstruction. Remember, I said one of the causes of respiratory arrest could be choking, and the universal sign for choking is having both hands clutched to the throat. But if the person isn't giving that signal, look for inability to talk, difficulty breathing, noisy, labored breathing, and/or frantic pointing to their throat. So the first thing you want to do is encourage coughing if they are able to. That's the most predictable thing that you can do to help. So otherwise, if they can't cough, we want to do abdominal thrusts as long as they are conscious. So this is known as the Heimlich maneuver. You'd position yourself behind the patient, place two hands together to make a fist, and then push the back of your dominant hand's thumb between the xiphoid process at the base of the sternum and the navel or belly button. So this is done forcefully, and you're pushing in and up in order to help that patient cough that foreign body out. For infants, it's a little bit different. We would do five back slaps followed by five chest thrusts. Now, if the patient is unconscious, then we're doing CPR, and you can check the mouth before delivering breaths. The rule used to be to finger sweep before CPR, which meant that you would attempt to fish out the object that is causing choking. But the problem with that is you could inadvertently push the object further down their airway. So now you only try to retrieve the foreign objects from their mouth if it's both visible and obtainable. And one last high-yield fun fact is that the brain can survive for approximately six minutes without oxygen. So time is certainly ticking in these scenarios.",
+      "narration_units": [
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u01",
+          "text": "And then the last thing we need to talk about in this video is choking or foreign body obstruction.",
+          "start_time": 756.0,
+          "end_time": 761.6
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u02",
+          "text": "Remember, I said one of the causes of respiratory arrest could be choking, and the universal sign for choking is having both hands clutched to the throat.",
+          "start_time": 762.24,
+          "end_time": 772.8
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u03",
+          "text": "But if the person isn't giving that signal, look for inability to talk, difficulty breathing, noisy, labored breathing, and/or frantic pointing to their throat.",
+          "start_time": 773.44,
+          "end_time": 784.32
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u04",
+          "text": "So the first thing you want to do is encourage coughing if they are able to.",
+          "start_time": 785.6,
+          "end_time": 790.88
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u05",
+          "text": "That's the most predictable thing that you can do to help.",
+          "start_time": 790.96,
+          "end_time": 794.24
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u06",
+          "text": "So otherwise, if they can't cough, we want to do abdominal thrusts as long as they are conscious. So this is known as the Heimlich maneuver.",
+          "start_time": 795.52,
+          "end_time": 805.76
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u07",
+          "text": "You'd position yourself behind the patient, place two hands together to make a fist, and then push the back of your dominant hand's thumb between the xiphoid process at the base of the sternum and the navel or belly button. So this is done forcefully, and you're pushing in and up in order to help that patient cough that foreign body out.",
+          "start_time": 806.08,
+          "end_time": 834.64
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u08",
+          "text": "For infants, it's a little bit different.",
+          "start_time": 835.76,
+          "end_time": 837.76
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u09",
+          "text": "We would do five back slaps followed by five chest thrusts.",
+          "start_time": 837.84,
+          "end_time": 842.24
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u10",
+          "text": "Now, if the patient is unconscious, then we're doing CPR, and you can check the mouth before delivering breaths.",
+          "start_time": 843.52,
+          "end_time": 851.92
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u11",
+          "text": "The rule used to be to finger sweep before CPR, which meant that you would attempt to fish out the object that is causing choking. But the problem with that is you could inadvertently push the object further down their airway.",
+          "start_time": 852.88,
+          "end_time": 866.72
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u12",
+          "text": "So now you only try to retrieve the foreign objects from their mouth if it's both visible and obtainable.",
+          "start_time": 866.8,
+          "end_time": 874.08
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u13",
+          "text": "And one last high-yield fun fact is that the brain can survive for approximately six minutes without oxygen.",
+          "start_time": 875.2,
+          "end_time": 882.72
+        },
+        {
+          "unit_id": "OralMedicineINBDE/5_s009_u14",
+          "text": "So time is certainly ticking in these scenarios.",
+          "start_time": 884.72,
+          "end_time": 888.24
+        }
+      ]
+    }
+  ]
+}

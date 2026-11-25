@@ -1,0 +1,1837 @@
+{
+  "lecture_id": "Biol1020/05",
+  "source_dataset": "lpm",
+  "video_url": "https://www.youtube.com/watch?v=uS8F-qRUeMM",
+  "slides": [
+    {
+      "slide_index": 0,
+      "image_path": "slide_images/Biol1020_05/slide_0000.jpg",
+      "start_time": 0.0,
+      "end_time": 11.0,
+      "narration": "Welcome to our next chapter, Chapter 5, Life in the Greenhouse here on Earth, where we'll also learn about photosynthesis and global climate change.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s000_u01",
+          "text": "Welcome to our next chapter, Chapter 5, Life in the Greenhouse here on Earth, where we'll also learn about photosynthesis and global climate change.",
+          "start_time": 0.96,
+          "end_time": 10.8
+        }
+      ]
+    },
+    {
+      "slide_index": 1,
+      "image_path": "slide_images/Biol1020_05/slide_0001.jpg",
+      "start_time": 11.0,
+      "end_time": 20.0,
+      "narration": "Make sure you check out our learning outcomes and recognize them as we come to them throughout our lessons and readings.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s001_u01",
+          "text": "Make sure you check out our learning outcomes and recognize them as we come to them throughout our lessons and readings.",
+          "start_time": 12.18,
+          "end_time": 19.46
+        }
+      ]
+    },
+    {
+      "slide_index": 2,
+      "image_path": "slide_images/Biol1020_05/slide_0002.jpg",
+      "start_time": 20.0,
+      "end_time": 220.96,
+      "narration": "Here's a question. Most scientists disagree that global climate change is occurring. Well, the answer to that one is, a big false. In late 2015, high-level representatives of the governments of nearly all the Earth's nations met in Paris for a historic dialogue. The end result was an agreement signed on December 12, in 2015, to combat global warming. The 195 signatory countries agreed to eliminate human-derived greenhouse gas emissions by 2050. As the agreement is being implemented, developing countries are to receive financial assistance to help cut emissions, and aid will be given to those nations that lack the resources to mitigate the negative effects of climate change. In dozens of cities throughout the world, hundreds of thousands of activists and ordinary citizens participated in peaceful and dramatic marches in the days leading up to the conference. The size of these rallies may have given world leaders the confidence to act. Indeed, many of these leaders were exhilarated by the hard-won final product. \"This is truly a historic moment,\" said Ban Ki-moon, the United Nations Secretary-General. \"For the first time, we've truly a universal agreement on climate change, one of the most crucial problems on Earth.\" Many environmental activists were more circumspect, noting that the accord did not specify any particular actions to combat the growing threat of climate change. Secretary-General Ban Ki-moon's description of climate change as one of Earth's most crucial problems is not an exaggeration. With what could sound like a small increase, the one degree Celsius temperature rise recorded since the beginning of the Industrial Revolution, dramatic climate shifts have already occurred. Mountain glaciers and polar ice caps are disappearing, while sea levels rise. Storms have become more severe and destructive, and insects carrying disease have changed their distribution patterns. This has threatened human populations. Scientists say that anything above 2 degrees Celsius, which is 3.6 degrees Fahrenheit, increase over the historical average will doom us to a future of even more severe consequences. These consequences include even more severe storms and resulting widespread food and water shortages. Given what scientists say about the severity of the crisis and the consequences of inaction, it may be crucial for humanity's survival and well-being that we band together to address climate change. The Paris Accord, although far from perfect, is an important step in that process. But what can science tell us about how we got in this predicament in the first place? And perhaps more important, what can we do about it now?",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s002_u01",
+          "text": "Here's a question. Most scientists disagree that global climate change is occurring. Well, the answer to that one is, a big false.",
+          "start_time": 22.4,
+          "end_time": 32.08
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u02",
+          "text": "In late 2015, high-level representatives of the governments of nearly all the Earth's nations met in Paris for a historic dialogue. The end result was an agreement signed on December 12, in 2015, to combat global warming.",
+          "start_time": 34.72,
+          "end_time": 52.8
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u03",
+          "text": "The 195 signatory countries agreed to eliminate human-derived greenhouse gas emissions by 2050.",
+          "start_time": 53.52,
+          "end_time": 61.12
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u04",
+          "text": "As the agreement is being implemented, developing countries are to receive financial assistance to help cut emissions, and aid will be given to those nations that lack the resources to mitigate the negative effects of climate change.",
+          "start_time": 62.0,
+          "end_time": 76.08
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u05",
+          "text": "In dozens of cities throughout the world, hundreds of thousands of activists and ordinary citizens participated in peaceful and dramatic marches in the days leading up to the conference.",
+          "start_time": 76.64,
+          "end_time": 88.0
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u06",
+          "text": "The size of these rallies may have given world leaders the confidence to act.",
+          "start_time": 88.72,
+          "end_time": 92.96
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u07",
+          "text": "Indeed, many of these leaders were exhilarated by the hard-won final product. \"This is truly a historic moment,\" said Ban Ki-moon, the United Nations Secretary-General. \"For the first time, we've truly a universal agreement on climate change, one of the most crucial problems on Earth.\"",
+          "start_time": 93.28,
+          "end_time": 113.92
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u08",
+          "text": "Many environmental activists were more circumspect, noting that the accord did not specify any particular actions to combat the growing threat of climate change.",
+          "start_time": 114.8,
+          "end_time": 127.12
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u09",
+          "text": "Secretary-General Ban Ki-moon's description of climate change as one of Earth's most crucial problems is not an exaggeration.",
+          "start_time": 127.76,
+          "end_time": 135.84
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u10",
+          "text": "With what could sound like a small increase, the one degree Celsius temperature rise recorded since the beginning of the Industrial Revolution, dramatic climate shifts have already occurred.",
+          "start_time": 136.4,
+          "end_time": 149.04
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u11",
+          "text": "Mountain glaciers and polar ice caps are disappearing, while sea levels rise. Storms have become more severe and destructive, and insects carrying disease have changed their distribution patterns. This has threatened human populations.",
+          "start_time": 149.52,
+          "end_time": 166.56
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u12",
+          "text": "Scientists say that anything above 2 degrees Celsius, which is 3.6 degrees Fahrenheit, increase over the historical average will doom us to a future of even more severe consequences. These consequences include even more severe storms and resulting widespread food and water shortages.",
+          "start_time": 167.6,
+          "end_time": 189.68
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u13",
+          "text": "Given what scientists say about the severity of the crisis and the consequences of inaction, it may be crucial for humanity's survival and well-being that we band together to address climate change.",
+          "start_time": 190.48,
+          "end_time": 203.2
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u14",
+          "text": "The Paris Accord, although far from perfect, is an important step in that process.",
+          "start_time": 203.92,
+          "end_time": 209.12
+        },
+        {
+          "unit_id": "Biol1020/05_s002_u15",
+          "text": "But what can science tell us about how we got in this predicament in the first place? And perhaps more important, what can we do about it now?",
+          "start_time": 209.6,
+          "end_time": 219.92
+        }
+      ]
+    },
+    {
+      "slide_index": 3,
+      "image_path": "slide_images/Biol1020_05/slide_0003.jpg",
+      "start_time": 220.96,
+      "end_time": 261.0,
+      "narration": "Global warming is the progressive increase of Earth's average temperature that's been occurring over the past century. There's little debate among scientists and government-appointed panels about the nature and cause of global warming. And global warming is contributing to global climate change, the local changes in average temperature, precipitation, and sea level relative to historical conditions that are occurring in locations all over the planet.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s003_u01",
+          "text": "Global warming is the progressive increase of Earth's average temperature that's been occurring over the past century.",
+          "start_time": 226.98,
+          "end_time": 234.9
+        },
+        {
+          "unit_id": "Biol1020/05_s003_u02",
+          "text": "There's little debate among scientists and government-appointed panels about the nature and cause of global warming.",
+          "start_time": 236.58,
+          "end_time": 243.78
+        },
+        {
+          "unit_id": "Biol1020/05_s003_u03",
+          "text": "And global warming is contributing to global climate change, the local changes in average temperature, precipitation, and sea level relative to historical conditions that are occurring in locations all over the planet.",
+          "start_time": 247.54,
+          "end_time": 260.9
+        }
+      ]
+    },
+    {
+      "slide_index": 4,
+      "image_path": "slide_images/Biol1020_05/slide_0004.jpg",
+      "start_time": 261.0,
+      "end_time": 298.92,
+      "narration": "Scientists who publish in peer-reviewed journals and respected scientific panels and societies, such as the Intergovernmental Panel on Climate Control, otherwise known as the IPCC, the National Academy of Sciences, and the American Association for the Advancement of Science, the AAAS, all agree that the average temperature on Earth is increasing and that most of the warming observed in the past century is attributable to human activities.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s004_u01",
+          "text": "Scientists who publish in peer-reviewed journals and respected scientific panels and societies, such as the Intergovernmental Panel on Climate Control, otherwise known as the IPCC, the National Academy of Sciences, and the American Association for the Advancement of Science, the AAAS, all agree that the average temperature on Earth is increasing and that most of the warming observed in the past century is attributable to human activities.",
+          "start_time": 265.63,
+          "end_time": 297.71
+        }
+      ]
+    },
+    {
+      "slide_index": 5,
+      "image_path": "slide_images/Biol1020_05/slide_0005.jpg",
+      "start_time": 298.92,
+      "end_time": 318.96,
+      "narration": "Again, global climate change is the local changes in average climate conditions, including temperature, precipitation, and sea level, and this is again relative to historic conditions.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s005_u01",
+          "text": "Again, global climate change is the local changes in average climate conditions, including temperature, precipitation, and sea level, and this is again relative to historic conditions.",
+          "start_time": 301.66,
+          "end_time": 316.06
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "image_path": "slide_images/Biol1020_05/slide_0006.jpg",
+      "start_time": 318.96,
+      "end_time": 381.8,
+      "narration": "Although Earth's climate does fluctuate over time due to changes in Earth's orbit and solar output, human-caused or anthropogenic global warming has dramatically increased the rate of change. Again, it's about here the rate of change, so much so it might be difficult for humans to even adjust. Anthropogenic global warming is caused by recent increases in the concentration of particular gases called greenhouse gases in the atmosphere. These include water vapor, carbon dioxide or CO2, methane known as CH4, and ozone or O3. The accumulation of many of the greenhouse gases is a direct result of coal, oil, and natural gas combustion.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s006_u01",
+          "text": "Although Earth's climate does fluctuate over time due to changes in Earth's orbit and solar output, human-caused or anthropogenic global warming has dramatically increased the rate of change.",
+          "start_time": 321.76,
+          "end_time": 338.4
+        },
+        {
+          "unit_id": "Biol1020/05_s006_u02",
+          "text": "Again, it's about here the rate of change, so much so it might be difficult for humans to even adjust.",
+          "start_time": 338.96,
+          "end_time": 347.28
+        },
+        {
+          "unit_id": "Biol1020/05_s006_u03",
+          "text": "Anthropogenic global warming is caused by recent increases in the concentration of particular gases called greenhouse gases in the atmosphere. These include water vapor, carbon dioxide or CO2, methane known as CH4, and ozone or O3.",
+          "start_time": 348.8,
+          "end_time": 370.96
+        },
+        {
+          "unit_id": "Biol1020/05_s006_u04",
+          "text": "The accumulation of many of the greenhouse gases is a direct result of coal, oil, and natural gas combustion.",
+          "start_time": 373.52,
+          "end_time": 381.68
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "image_path": "slide_images/Biol1020_05/slide_0007.jpg",
+      "start_time": 381.8,
+      "end_time": 397.0,
+      "narration": "The most abundant gas emitted by the combustion of fossil fuels is carbon dioxide, so for this reason carbon dioxide is considered the most important greenhouse gas to control.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s007_u01",
+          "text": "The most abundant gas emitted by the combustion of fossil fuels is carbon dioxide, so for this reason carbon dioxide is considered the most important greenhouse gas to control.",
+          "start_time": 382.92,
+          "end_time": 396.68
+        }
+      ]
+    },
+    {
+      "slide_index": 8,
+      "image_path": "slide_images/Biol1020_05/slide_0008.jpg",
+      "start_time": 397.0,
+      "end_time": 414.0,
+      "narration": "Which atmospheric gas is a greenhouse gas? Well, from our previous slides, we've learned that it's all three of these, methane, water vapor, and carbon dioxide, with CO2 being the number one to control.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s008_u01",
+          "text": "Which atmospheric gas is a greenhouse gas? Well, from our previous slides, we've learned that it's all three of these, methane, water vapor, and carbon dioxide, with CO2 being the number one to control.",
+          "start_time": 399.48,
+          "end_time": 413.96
+        }
+      ]
+    },
+    {
+      "slide_index": 9,
+      "image_path": "slide_images/Biol1020_05/slide_0009.jpg",
+      "start_time": 414.0,
+      "end_time": 461.68,
+      "narration": "The presence of carbon dioxide and all the other greenhouse gases in the atmosphere leads to a phenomenon called the greenhouse effect. These gases being in our atmosphere trap the energy that comes to Earth from our very own sun. The sun warms the Earth's surface. That heat bounces back up, radiates outward, but all of it doesn't get to escape back into space, so some of it's reflected back down to Earth by the greenhouse gases.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s009_u01",
+          "text": "The presence of carbon dioxide and all the other greenhouse gases in the atmosphere leads to a phenomenon called the greenhouse effect. These gases being in our atmosphere trap the energy that comes to Earth from our very own sun.",
+          "start_time": 417.51,
+          "end_time": 438.31
+        },
+        {
+          "unit_id": "Biol1020/05_s009_u02",
+          "text": "The sun warms the Earth's surface. That heat bounces back up, radiates outward, but all of it doesn't get to escape back into space, so some of it's reflected back down to Earth by the greenhouse gases.",
+          "start_time": 440.15,
+          "end_time": 457.99
+        }
+      ]
+    },
+    {
+      "slide_index": 10,
+      "image_path": "slide_images/Biol1020_05/slide_0010.jpg",
+      "start_time": 461.68,
+      "end_time": 507.31,
+      "narration": "So we could say the greenhouse gases we have here on Earth act like a sort of a atmospheric blanket. Just like you sleeping under a blanket, your body heat warms the blanket and traps the heat, so that blanket keeps you warm. As we get more greenhouse gases accumulating in the atmosphere, it's like having a thicker blanket. More heat is retained and re-radiated, just like a warmer temperature under a blanket that you might use yourself. Well, what if I told you that the greenhouse effect is good for life here on Earth? Well, that actually is true.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s010_u01",
+          "text": "So we could say the greenhouse gases we have here on Earth act like a sort of a atmospheric blanket. Just like you sleeping under a blanket, your body heat warms the blanket and traps the heat, so that blanket keeps you warm.",
+          "start_time": 463.11,
+          "end_time": 479.83
+        },
+        {
+          "unit_id": "Biol1020/05_s010_u02",
+          "text": "As we get more greenhouse gases accumulating in the atmosphere, it's like having a thicker blanket. More heat is retained and re-radiated, just like a warmer temperature under a blanket that you might use yourself.",
+          "start_time": 481.91,
+          "end_time": 497.75
+        },
+        {
+          "unit_id": "Biol1020/05_s010_u03",
+          "text": "Well, what if I told you that the greenhouse effect is good for life here on Earth? Well, that actually is true.",
+          "start_time": 500.15,
+          "end_time": 507.1
+        }
+      ]
+    },
+    {
+      "slide_index": 11,
+      "image_path": "slide_images/Biol1020_05/slide_0011.jpg",
+      "start_time": 507.31,
+      "end_time": 545.48,
+      "narration": "It's not in itself a dangerous phenomenon. It's necessary for humans and all other living organisms here on Earth. If Earth's atmosphere did not have some greenhouse gases, too much heat would be lost to space, and then the Earth would be too cold to support life. The danger imposed by anthropogenic global warming is in the speed of temperature increase and thus the changes in weather patterns and sea levels that exceed the ability of many living organisms to adapt. So what might this mean for our very own species?",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s011_u01",
+          "text": "It's not in itself a dangerous phenomenon. It's necessary for humans and all other living organisms here on Earth. If Earth's atmosphere did not have some greenhouse gases, too much heat would be lost to space, and then the Earth would be too cold to support life.",
+          "start_time": 507.58,
+          "end_time": 525.1
+        },
+        {
+          "unit_id": "Biol1020/05_s011_u02",
+          "text": "The danger imposed by anthropogenic global warming is in the speed of temperature increase and thus the changes in weather patterns and sea levels that exceed the ability of many living organisms to adapt.",
+          "start_time": 526.78,
+          "end_time": 539.66
+        },
+        {
+          "unit_id": "Biol1020/05_s011_u03",
+          "text": "So what might this mean for our very own species?",
+          "start_time": 540.14,
+          "end_time": 543.34
+        }
+      ]
+    },
+    {
+      "slide_index": 12,
+      "image_path": "slide_images/Biol1020_05/slide_0012.jpg",
+      "start_time": 545.48,
+      "end_time": 574.84,
+      "narration": "Well, remember we have a lot of water here on Earth, and bodies of water absorb energy and help maintain stable temperatures here on Earth. Also, remember with the hydrogen bonds that water has between the water molecules, it makes water heat up slowly and resist temperature changes. This is actually good for life on Earth because we don't like drastic temperature changes.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s012_u01",
+          "text": "Well, remember we have a lot of water here on Earth, and bodies of water absorb energy and help maintain stable temperatures here on Earth.",
+          "start_time": 547.87,
+          "end_time": 557.15
+        },
+        {
+          "unit_id": "Biol1020/05_s012_u02",
+          "text": "Also, remember with the hydrogen bonds that water has between the water molecules, it makes water heat up slowly and resist temperature changes. This is actually good for life on Earth because we don't like drastic temperature changes.",
+          "start_time": 558.11,
+          "end_time": 574.03
+        }
+      ]
+    },
+    {
+      "slide_index": 13,
+      "image_path": "slide_images/Biol1020_05/slide_0013.jpg",
+      "start_time": 574.84,
+      "end_time": 596.88,
+      "narration": "Heat is the total amount of energy associated with the movement of atoms and molecules, and temperature measures the intensity of heat or how fast the molecules are moving. Large volumes contain more heat due to greater totals of molecular movements.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s013_u01",
+          "text": "Heat is the total amount of energy associated with the movement of atoms and molecules, and temperature measures the intensity of heat or how fast the molecules are moving. Large volumes contain more heat due to greater totals of molecular movements.",
+          "start_time": 576.96,
+          "end_time": 595.84
+        }
+      ]
+    },
+    {
+      "slide_index": 14,
+      "image_path": "slide_images/Biol1020_05/slide_0014.jpg",
+      "start_time": 596.88,
+      "end_time": 657.0,
+      "narration": "Again, the formation of hydrogen bonds between neighboring molecules of water makes it more cohesive than other liquids. In other words, water molecules tend to stick together. These same hydrogen bonds also make water resistant to temperature changes, even when a large amount of heat is added. That phenomenon occurs because when water is heated, the energy first must disrupt the hydrogen bonds. Only after enough of the hydrogen bonds have been broken can heat cause individual water molecules to move faster, thus increasing their temperature. When water cools, the hydrogen bonds reform between adjacent water molecules. This releases heat into the atmosphere. A body of water can store a large amount of heat from its surroundings while experiencing only a small increase in temperature, and vice versa.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s014_u01",
+          "text": "Again, the formation of hydrogen bonds between neighboring molecules of water makes it more cohesive than other liquids. In other words, water molecules tend to stick together.",
+          "start_time": 597.43,
+          "end_time": 608.15
+        },
+        {
+          "unit_id": "Biol1020/05_s014_u02",
+          "text": "These same hydrogen bonds also make water resistant to temperature changes, even when a large amount of heat is added. That phenomenon occurs because when water is heated, the energy first must disrupt the hydrogen bonds. Only after enough of the hydrogen bonds have been broken can heat cause individual water molecules to move faster, thus increasing their temperature.",
+          "start_time": 608.87,
+          "end_time": 633.99
+        },
+        {
+          "unit_id": "Biol1020/05_s014_u03",
+          "text": "When water cools, the hydrogen bonds reform between adjacent water molecules. This releases heat into the atmosphere.",
+          "start_time": 634.87,
+          "end_time": 644.23
+        },
+        {
+          "unit_id": "Biol1020/05_s014_u04",
+          "text": "A body of water can store a large amount of heat from its surroundings while experiencing only a small increase in temperature, and vice versa.",
+          "start_time": 644.71,
+          "end_time": 654.15
+        }
+      ]
+    },
+    {
+      "slide_index": 15,
+      "image_path": "slide_images/Biol1020_05/slide_0015.jpg",
+      "start_time": 657.0,
+      "end_time": 759.67,
+      "narration": "Water's heat-absorbing capacity has important effects on our Earth's climate. And after all, we have a lot of water on Earth with all of our oceans and lakes, and all that water helps to keep temperatures moderate by absorbing huge amounts of heat radiated by the sun and then releasing that heat during less sunnier times. This warms the air and prevents large temperature swings. As the temperature continues to rise, individual water molecules can move fast enough to break free of all hydrogen bonds and then rise up into the air as water vapor. And that's the basis for our water cycle here on Earth.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s015_u01",
+          "text": "Water's heat-absorbing capacity has important effects on our Earth's climate. And after all, we have a lot of water on Earth with all of our oceans and lakes, and all that water helps to keep temperatures moderate by absorbing huge amounts of heat radiated by the sun and then releasing that heat during less sunnier times. This warms the air and prevents large temperature swings.",
+          "start_time": 658.41,
+          "end_time": 686.97
+        },
+        {
+          "unit_id": "Biol1020/05_s015_u02",
+          "text": "As the temperature continues to rise, individual water molecules can move fast enough to break free of all hydrogen bonds and then rise up into the air as water vapor. And that's the basis for our water cycle here on Earth.",
+          "start_time": 744.57,
+          "end_time": 758.84
+        }
+      ]
+    },
+    {
+      "slide_index": 16,
+      "image_path": "slide_images/Biol1020_05/slide_0016.jpg",
+      "start_time": 759.67,
+      "end_time": 800.14,
+      "narration": "Water moves from land, oceans, and lakes to clouds and then back to the Earth's surfaces again, as we see in this diagram here. As the amount of heat trapped near our Earth's surface has increased, well, the water cycle has changed. It's sped up. The intensification of the cycle leads to more extremes on both ends of the climate spectrum. In other words, wet places are getting wetter and dry places are getting drier. The carbon dioxide increase driving this change comes from many different sources.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s016_u01",
+          "text": "Water moves from land, oceans, and lakes to clouds and then back to the Earth's surfaces again, as we see in this diagram here.",
+          "start_time": 761.32,
+          "end_time": 771.4
+        },
+        {
+          "unit_id": "Biol1020/05_s016_u02",
+          "text": "As the amount of heat trapped near our Earth's surface has increased, well, the water cycle has changed. It's sped up. The intensification of the cycle leads to more extremes on both ends of the climate spectrum. In other words, wet places are getting wetter and dry places are getting drier.",
+          "start_time": 773.72,
+          "end_time": 793.32
+        },
+        {
+          "unit_id": "Biol1020/05_s016_u03",
+          "text": "The carbon dioxide increase driving this change comes from many different sources.",
+          "start_time": 794.44,
+          "end_time": 799.8
+        }
+      ]
+    },
+    {
+      "slide_index": 17,
+      "image_path": "slide_images/Biol1020_05/slide_0017.jpg",
+      "start_time": 800.14,
+      "end_time": 828.52,
+      "narration": "First, I'll ask this question. How does your body heat compare to the cool lake where you swim? Well, the answer is B. Remember that heat is the total amount of energy associated with the movement of atoms and molecules. Well, a lake contains more heat because it has a greater volume of molecular movement than just your body.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s017_u01",
+          "text": "First, I'll ask this question. How does your body heat compare to the cool lake where you swim?",
+          "start_time": 803.79,
+          "end_time": 809.39
+        },
+        {
+          "unit_id": "Biol1020/05_s017_u02",
+          "text": "Well, the answer is B. Remember that heat is the total amount of energy associated with the movement of atoms and molecules. Well, a lake contains more heat because it has a greater volume of molecular movement than just your body.",
+          "start_time": 810.99,
+          "end_time": 827.23
+        }
+      ]
+    },
+    {
+      "slide_index": 18,
+      "image_path": "slide_images/Biol1020_05/slide_0018.jpg",
+      "start_time": 828.52,
+      "end_time": 879.0,
+      "narration": "To help us understand a little bit more about our greenhouse gases like carbon dioxide, let's take a look at the flow of carbon on Earth. The flow of carbon on Earth is called the carbon cycle. Remember that the atoms that make up living organisms primarily contain a lot of carbon. That's why we call life here on Earth carbon-based life or organic life. Carbon can also be found in the atmosphere as carbon dioxide. It can also be found absorbed in the water, our lakes and our oceans and other bodies of water, and even in rocks as well.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s018_u01",
+          "text": "To help us understand a little bit more about our greenhouse gases like carbon dioxide, let's take a look at the flow of carbon on Earth.",
+          "start_time": 832.54,
+          "end_time": 841.9
+        },
+        {
+          "unit_id": "Biol1020/05_s018_u02",
+          "text": "The flow of carbon on Earth is called the carbon cycle.",
+          "start_time": 842.86,
+          "end_time": 845.82
+        },
+        {
+          "unit_id": "Biol1020/05_s018_u03",
+          "text": "Remember that the atoms that make up living organisms primarily contain a lot of carbon. That's why we call life here on Earth carbon-based life or organic life.",
+          "start_time": 847.34,
+          "end_time": 859.1
+        },
+        {
+          "unit_id": "Biol1020/05_s018_u04",
+          "text": "Carbon can also be found in the atmosphere as carbon dioxide. It can also be found absorbed in the water, our lakes and our oceans and other bodies of water, and even in rocks as well.",
+          "start_time": 859.98,
+          "end_time": 874.62
+        }
+      ]
+    },
+    {
+      "slide_index": 19,
+      "image_path": "slide_images/Biol1020_05/slide_0019.jpg",
+      "start_time": 879.0,
+      "end_time": 893.0,
+      "narration": "And most of the carbon dioxide in our atmosphere is actually not from natural processes. It comes from the combustion of fossil fuels.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s019_u01",
+          "text": "And most of the carbon dioxide in our atmosphere is actually not from natural processes. It comes from the combustion of fossil fuels.",
+          "start_time": 882.16,
+          "end_time": 892.08
+        }
+      ]
+    },
+    {
+      "slide_index": 20,
+      "image_path": "slide_images/Biol1020_05/slide_0020.jpg",
+      "start_time": 893.0,
+      "end_time": 912.0,
+      "narration": "Which, as you can see when we go back to this picture, is shown here with industry emitting carbon dioxide into the atmosphere. It's also emitted into the atmosphere from Earth through volcanoes as well.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s020_u01",
+          "text": "Which, as you can see when we go back to this picture, is shown here with industry emitting carbon dioxide into the atmosphere. It's also emitted into the atmosphere from Earth through volcanoes as well.",
+          "start_time": 893.34,
+          "end_time": 908.94
+        }
+      ]
+    },
+    {
+      "slide_index": 21,
+      "image_path": "slide_images/Biol1020_05/slide_0021.jpg",
+      "start_time": 912.0,
+      "end_time": 986.43,
+      "narration": "As part of the carbon cycle, carbon dioxide is absorbed by plants and algae and some bacteria who are able to perform photosynthesis. They take in the carbon dioxide and they convert it to sugars or carbohydrates with the use of sunlight energy. And then this, the sugars created by photosynthesis, are the source of cellular energy for most organisms here on Earth. That carbon is eventually then released by the organisms that consume the carbohydrates by, well, breathing, for one thing. When you breathe out carbon dioxide, that goes back into the atmosphere. But you can also release carbon back to Earth when you die as well, and decomposers break down the carbohydrates in your body and other molecules and then release that back to Earth. There are some unconsumed carbohydrates that have been buried for millennia, and those are called fossil fuels.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s021_u01",
+          "text": "As part of the carbon cycle, carbon dioxide is absorbed by plants and algae and some bacteria who are able to perform photosynthesis. They take in the carbon dioxide and they convert it to sugars or carbohydrates with the use of sunlight energy.",
+          "start_time": 915.29,
+          "end_time": 934.89
+        },
+        {
+          "unit_id": "Biol1020/05_s021_u02",
+          "text": "And then this, the sugars created by photosynthesis, are the source of cellular energy for most organisms here on Earth.",
+          "start_time": 935.85,
+          "end_time": 943.45
+        },
+        {
+          "unit_id": "Biol1020/05_s021_u03",
+          "text": "That carbon is eventually then released by the organisms that consume the carbohydrates by, well, breathing, for one thing. When you breathe out carbon dioxide, that goes back into the atmosphere.",
+          "start_time": 945.61,
+          "end_time": 960.73
+        },
+        {
+          "unit_id": "Biol1020/05_s021_u04",
+          "text": "But you can also release carbon back to Earth when you die as well, and decomposers break down the carbohydrates in your body and other molecules and then release that back to Earth.",
+          "start_time": 961.29,
+          "end_time": 975.37
+        },
+        {
+          "unit_id": "Biol1020/05_s021_u05",
+          "text": "There are some unconsumed carbohydrates that have been buried for millennia, and those are called fossil fuels.",
+          "start_time": 977.05,
+          "end_time": 986.16
+        }
+      ]
+    },
+    {
+      "slide_index": 22,
+      "image_path": "slide_images/Biol1020_05/slide_0022.jpg",
+      "start_time": 986.43,
+      "end_time": 1017.84,
+      "narration": "These are highly concentrated energy sources, lots of carbon and hydrogen and bonds with their potential energy in those bonds just waiting there for us to dig them out and burn them as our fuel. These were produced from unconsumed carbohydrates of ancient buried organisms. They're transformed by heat and pressure. Examples include petroleum, coal, and natural gas.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s022_u01",
+          "text": "These are highly concentrated energy sources, lots of carbon and hydrogen and bonds with their potential energy in those bonds just waiting there for us to dig them out and burn them as our fuel.",
+          "start_time": 989.04,
+          "end_time": 1002.32
+        },
+        {
+          "unit_id": "Biol1020/05_s022_u02",
+          "text": "These were produced from unconsumed carbohydrates of ancient buried organisms.",
+          "start_time": 1004.32,
+          "end_time": 1009.52
+        },
+        {
+          "unit_id": "Biol1020/05_s022_u03",
+          "text": "They're transformed by heat and pressure.",
+          "start_time": 1010.32,
+          "end_time": 1012.72
+        },
+        {
+          "unit_id": "Biol1020/05_s022_u04",
+          "text": "Examples include petroleum, coal, and natural gas.",
+          "start_time": 1013.92,
+          "end_time": 1017.6
+        }
+      ]
+    },
+    {
+      "slide_index": 23,
+      "image_path": "slide_images/Biol1020_05/slide_0023.jpg",
+      "start_time": 1017.84,
+      "end_time": 1042.0,
+      "narration": "Humans now use fossil fuels, especially since the Industrial Revolution, to power homes, vehicles, and businesses. This releases that stored carbon that's been there for millions of years, and then, unfortunately, contributes to the accumulation of atmospheric carbon dioxide.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s023_u01",
+          "text": "Humans now use fossil fuels, especially since the Industrial Revolution, to power homes, vehicles, and businesses. This releases that stored carbon that's been there for millions of years, and then, unfortunately, contributes to the accumulation of atmospheric carbon dioxide.",
+          "start_time": 1020.17,
+          "end_time": 1040.41
+        }
+      ]
+    },
+    {
+      "slide_index": 24,
+      "image_path": "slide_images/Biol1020_05/slide_0024.jpg",
+      "start_time": 1042.0,
+      "end_time": 1057.8,
+      "narration": "Human use of fossil fuels is having a measurable effect. Increases in carbon dioxide in the atmosphere are well documented by direct measurements over the past 50 years.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s024_u01",
+          "text": "Human use of fossil fuels is having a measurable effect. Increases in carbon dioxide in the atmosphere are well documented by direct measurements over the past 50 years.",
+          "start_time": 1045.27,
+          "end_time": 1057.43
+        }
+      ]
+    },
+    {
+      "slide_index": 25,
+      "image_path": "slide_images/Biol1020_05/slide_0025.jpg",
+      "start_time": 1057.8,
+      "end_time": 1126.52,
+      "narration": "In addition, scientists can analyze fossil air. Can you believe it? Fossilized air? But yeah, it's been trapped within ancient ice sheets, and then we can use that to determine carbon dioxide over longer time spans. Such measurement is possible because snow falling on an ice sheet traps the air. As snow accumulates, underlying snow is compressed into ice, and the trapped air becomes tiny ice-encased air bubbles. It gives us a way to look back into history And see what the Earth's atmosphere was like at the time those air bubbles were trapped. These are called ice cores. From these, we were able to see that current carbon dioxide levels are the highest level in over 400,000 years. And we know temperature and carbon dioxide levels are correlated.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s025_u01",
+          "text": "In addition, scientists can analyze fossil air.",
+          "start_time": 1058.15,
+          "end_time": 1061.91
+        },
+        {
+          "unit_id": "Biol1020/05_s025_u02",
+          "text": "Can you believe it? Fossilized air?",
+          "start_time": 1062.47,
+          "end_time": 1064.47
+        },
+        {
+          "unit_id": "Biol1020/05_s025_u03",
+          "text": "But yeah, it's been trapped within ancient ice sheets, and then we can use that to determine carbon dioxide over longer time spans.",
+          "start_time": 1064.87,
+          "end_time": 1075.67
+        },
+        {
+          "unit_id": "Biol1020/05_s025_u04",
+          "text": "Such measurement is possible because snow falling on an ice sheet traps the air. As snow accumulates, underlying snow is compressed into ice, and the trapped air becomes tiny ice-encased air bubbles. It gives us a way to look back into history And see what the Earth's atmosphere was like at the time those air bubbles were trapped. These are called ice cores.",
+          "start_time": 1077.19,
+          "end_time": 1108.06
+        },
+        {
+          "unit_id": "Biol1020/05_s025_u05",
+          "text": "From these, we were able to see that current carbon dioxide levels are the highest level in over 400,000 years.",
+          "start_time": 1110.46,
+          "end_time": 1119.34
+        },
+        {
+          "unit_id": "Biol1020/05_s025_u06",
+          "text": "And we know temperature and carbon dioxide levels are correlated.",
+          "start_time": 1120.3,
+          "end_time": 1124.78
+        }
+      ]
+    },
+    {
+      "slide_index": 26,
+      "image_path": "slide_images/Biol1020_05/slide_0026.jpg",
+      "start_time": 1126.52,
+      "end_time": 1163.0,
+      "narration": "First, I want to go back to this graph as well, as we can see the average concentration of carbon dioxide steadily increasing over time. Here, carbon dioxide concentration is measured in parts per million, and this graph is only from 1960 to 2017. Imagine what the graph would look like over the last 400,000 years. But this is well-documented actual data and evidence.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s026_u01",
+          "text": "First, I want to go back to this graph as well, as we can see the average concentration of carbon dioxide steadily increasing over time. Here, carbon dioxide concentration is measured in parts per million, and this graph is only from 1960 to 2017.",
+          "start_time": 1126.89,
+          "end_time": 1148.17
+        },
+        {
+          "unit_id": "Biol1020/05_s026_u02",
+          "text": "Imagine what the graph would look like over the last 400,000 years.",
+          "start_time": 1150.41,
+          "end_time": 1155.13
+        },
+        {
+          "unit_id": "Biol1020/05_s026_u03",
+          "text": "But this is well-documented actual data and evidence.",
+          "start_time": 1156.57,
+          "end_time": 1162.49
+        }
+      ]
+    },
+    {
+      "slide_index": 27,
+      "image_path": "slide_images/Biol1020_05/slide_0027.jpg",
+      "start_time": 1163.0,
+      "end_time": 1169.91,
+      "narration": "Again, temperature and carbon dioxide levels are correlated,",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s027_u01",
+          "text": "Again, temperature and carbon dioxide levels are correlated,",
+          "start_time": 1166.04,
+          "end_time": 1169.56
+        }
+      ]
+    },
+    {
+      "slide_index": 28,
+      "image_path": "slide_images/Biol1020_05/slide_0028.jpg",
+      "start_time": 1169.91,
+      "end_time": 1225.0,
+      "narration": "and here we can see that. Here we see records of temperature and atmospheric carbon dioxide concentration from Antarctic ice cores. This data indicates that increases in carbon dioxide levels are correlated with higher temperatures. So when carbon dioxide levels in the atmosphere are high, well, take a look at what happens to the temperature. The temperature also goes up. Take a look at the present one right here. Carbon dioxide concentration is way up here. What's going to happen to our temperature? If we look in the past, look at the blue line. This is what's happened every time our carbon dioxide levels have gotten high.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s028_u01",
+          "text": "and here we can see that. Here we see records of temperature and atmospheric carbon dioxide concentration from Antarctic ice cores. This data indicates that increases in carbon dioxide levels are correlated with higher temperatures.",
+          "start_time": 1169.96,
+          "end_time": 1187.16
+        },
+        {
+          "unit_id": "Biol1020/05_s028_u02",
+          "text": "So when carbon dioxide levels in the atmosphere are high, well, take a look at what happens to the temperature. The temperature also goes up. Take a look at the present one right here. Carbon dioxide concentration is way up here. What's going to happen to our temperature? If we look in the past, look at the blue line. This is what's happened every time our carbon dioxide levels have gotten high.",
+          "start_time": 1187.8,
+          "end_time": 1222.04
+        }
+      ]
+    },
+    {
+      "slide_index": 29,
+      "image_path": "slide_images/Biol1020_05/slide_0029.jpg",
+      "start_time": 1225.0,
+      "end_time": 1249.0,
+      "narration": "There's a video embedded into this slideshow called The Carbon Cycle. If you're unable to play it over your slideshow, you can also click on this YouTube video here, or just do a search on YouTube for carbon cycle, and there's a plethora of videos available.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s029_u01",
+          "text": "There's a video embedded into this slideshow called The Carbon Cycle. If you're unable to play it over your slideshow, you can also click on this YouTube video here, or just do a search on YouTube for carbon cycle, and there's a plethora of videos available.",
+          "start_time": 1227.65,
+          "end_time": 1247.49
+        }
+      ]
+    },
+    {
+      "slide_index": 30,
+      "image_path": "slide_images/Biol1020_05/slide_0030.jpg",
+      "start_time": 1249.0,
+      "end_time": 1320.92,
+      "narration": "Modern plants and certain microorganisms do as their ancient predecessors did. They absorb carbon dioxide from the atmosphere and convert it to carbohydrates. Is it possible that we could depend on these modern organisms to reduce the amount of greenhouse gases released by fossil fuel burning, and thus the threat posed by global climate change? Well, photosynthesis is the process that traps light energy from the sun and uses it to convert carbon dioxide and water into sugars or carbohydrates. In other words, photosynthesis transforms solar energy into the chemical energy required by all living things here on Earth. In the picture below, we see a chloroplast, which is an organelle that all photosynthetic organisms have in order to do these reactions. Plants, some protists like algae, and some bacteria like cyanobacteria are able to do this.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s030_u01",
+          "text": "Modern plants and certain microorganisms do as their ancient predecessors did. They absorb carbon dioxide from the atmosphere and convert it to carbohydrates.",
+          "start_time": 1253.04,
+          "end_time": 1264.08
+        },
+        {
+          "unit_id": "Biol1020/05_s030_u02",
+          "text": "Is it possible that we could depend on these modern organisms to reduce the amount of greenhouse gases released by fossil fuel burning, and thus the threat posed by global climate change?",
+          "start_time": 1264.72,
+          "end_time": 1276.08
+        },
+        {
+          "unit_id": "Biol1020/05_s030_u03",
+          "text": "Well, photosynthesis is the process that traps light energy from the sun and uses it to convert carbon dioxide and water into sugars or carbohydrates. In other words, photosynthesis transforms solar energy into the chemical energy required by all living things here on Earth.",
+          "start_time": 1277.36,
+          "end_time": 1297.04
+        },
+        {
+          "unit_id": "Biol1020/05_s030_u04",
+          "text": "In the picture below, we see a chloroplast, which is an organelle that all photosynthetic organisms have in order to do these reactions.",
+          "start_time": 1299.92,
+          "end_time": 1310.8
+        },
+        {
+          "unit_id": "Biol1020/05_s030_u05",
+          "text": "Plants, some protists like algae, and some bacteria like cyanobacteria are able to do this.",
+          "start_time": 1311.6,
+          "end_time": 1319.6
+        }
+      ]
+    },
+    {
+      "slide_index": 31,
+      "image_path": "slide_images/Biol1020_05/slide_0031.jpg",
+      "start_time": 1320.92,
+      "end_time": 1364.45,
+      "narration": "A chloroplast is like an envelope. It has a inner and outer membrane to enclose it. Some other parts are the stroma, which is the fluid-filled compartment. This holds a lot of enzymes or proteins for doing the process of photosynthesis. It's like a thick fluid area. Then there's these little stacks of disks called the thylakoids. These are little structures that have membranes of their own that are stacked in piles and, again, increase the surface area for areas to do photosynthesis reactions.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s031_u01",
+          "text": "A chloroplast is like an envelope. It has a inner and outer membrane to enclose it.",
+          "start_time": 1324.17,
+          "end_time": 1331.13
+        },
+        {
+          "unit_id": "Biol1020/05_s031_u02",
+          "text": "Some other parts are the stroma, which is the fluid-filled compartment. This holds a lot of enzymes or proteins for doing the process of photosynthesis. It's like a thick fluid area.",
+          "start_time": 1332.49,
+          "end_time": 1346.25
+        },
+        {
+          "unit_id": "Biol1020/05_s031_u03",
+          "text": "Then there's these little stacks of disks called the thylakoids. These are little structures that have membranes of their own that are stacked in piles and, again, increase the surface area for areas to do photosynthesis reactions.",
+          "start_time": 1347.37,
+          "end_time": 1363.93
+        }
+      ]
+    },
+    {
+      "slide_index": 32,
+      "image_path": "slide_images/Biol1020_05/slide_0032.jpg",
+      "start_time": 1364.45,
+      "end_time": 1434.68,
+      "narration": "These thylakoids also hold chlorophyll, which is different pigment molecules. There's more than one type of chlorophyll, but they're different pigment molecules made of protein. They cover the surface of the thylakoid disc, and they absorb light energy from the sun. That's their job. Some of them are more made to absorb the electromagnetic spectrum parts that are purple and blue that we would see as visible light, others, the red and oranges. But you'll notice that most of these photosynthetic organisms are green, and that's because their chlorophyll reflects back the green light. That's because they're not using as much of the green light as they are the purples, blues, oranges, and reds. This is why plants are green. They reflect the visible light that they're not using, and it turns out that they're just not really using much of the greens and yellows.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s032_u01",
+          "text": "These thylakoids also hold chlorophyll, which is different pigment molecules.",
+          "start_time": 1364.86,
+          "end_time": 1372.3
+        },
+        {
+          "unit_id": "Biol1020/05_s032_u02",
+          "text": "There's more than one type of chlorophyll, but they're different pigment molecules made of protein.",
+          "start_time": 1372.3,
+          "end_time": 1377.42
+        },
+        {
+          "unit_id": "Biol1020/05_s032_u03",
+          "text": "They cover the surface of the thylakoid disc, and they absorb light energy from the sun. That's their job.",
+          "start_time": 1378.54,
+          "end_time": 1385.34
+        },
+        {
+          "unit_id": "Biol1020/05_s032_u04",
+          "text": "Some of them are more made to absorb the electromagnetic spectrum parts that are purple and blue that we would see as visible light, others, the red and oranges.",
+          "start_time": 1386.86,
+          "end_time": 1402.22
+        },
+        {
+          "unit_id": "Biol1020/05_s032_u05",
+          "text": "But you'll notice that most of these photosynthetic organisms are green, and that's because their chlorophyll reflects back the green light. That's because they're not using as much of the green light as they are the purples, blues, oranges, and reds. This is why plants are green. They reflect the visible light that they're not using, and it turns out that they're just not really using much of the greens and yellows.",
+          "start_time": 1402.7,
+          "end_time": 1433.82
+        }
+      ]
+    },
+    {
+      "slide_index": 33,
+      "image_path": "slide_images/Biol1020_05/slide_0033.jpg",
+      "start_time": 1434.68,
+      "end_time": 1490.28,
+      "narration": "Here's the equation for the process of photosynthesis. We take carbon dioxide from the atmosphere, also some water and light energy from the sun. From that, reactions occur which make glucose, the sugar carbohydrate that feeds the world, and then oxygen, which, hey, we kind of like oxygen too, because we need to breathe that. The chemical equation that's balanced is listed here, and it occurs in two steps in different areas of the chloroplast. The light reactions, which occur in the thylakoids, in the chlorophyll-laden areas, and then the light-independent reactions, or sometimes also known as the Calvin cycle, which occurs in the stroma,",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s033_u01",
+          "text": "Here's the equation for the process of photosynthesis.",
+          "start_time": 1436.74,
+          "end_time": 1440.02
+        },
+        {
+          "unit_id": "Biol1020/05_s033_u02",
+          "text": "We take carbon dioxide from the atmosphere, also some water and light energy from the sun. From that, reactions occur which make glucose, the sugar carbohydrate that feeds the world, and then oxygen, which, hey, we kind of like oxygen too, because we need to breathe that.",
+          "start_time": 1440.5,
+          "end_time": 1461.62
+        },
+        {
+          "unit_id": "Biol1020/05_s033_u03",
+          "text": "The chemical equation that's balanced is listed here, and it occurs in two steps in different areas of the chloroplast.",
+          "start_time": 1463.46,
+          "end_time": 1472.82
+        },
+        {
+          "unit_id": "Biol1020/05_s033_u04",
+          "text": "The light reactions, which occur in the thylakoids, in the chlorophyll-laden areas, and then the light-independent reactions, or sometimes also known as the Calvin cycle, which occurs in the stroma,",
+          "start_time": 1473.38,
+          "end_time": 1490.02
+        }
+      ]
+    },
+    {
+      "slide_index": 34,
+      "image_path": "slide_images/Biol1020_05/slide_0034.jpg",
+      "start_time": 1490.28,
+      "end_time": 1511.0,
+      "narration": "Which is the liquid portion of the chloroplast. So here's a big picture of a chloroplast. The light reactions occur here in the thylakoids, where we have plenty of chlorophyll absorbing sunlight, and then dark reactions, where the sugar is actually made here in the stroma.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s034_u01",
+          "text": "Which is the liquid portion of the chloroplast.",
+          "start_time": 1490.6,
+          "end_time": 1493.88
+        },
+        {
+          "unit_id": "Biol1020/05_s034_u02",
+          "text": "So here's a big picture of a chloroplast.",
+          "start_time": 1494.12,
+          "end_time": 1496.28
+        },
+        {
+          "unit_id": "Biol1020/05_s034_u03",
+          "text": "The light reactions occur here in the thylakoids, where we have plenty of chlorophyll absorbing sunlight, and then dark reactions, where the sugar is actually made here in the stroma.",
+          "start_time": 1496.76,
+          "end_time": 1509.32
+        }
+      ]
+    },
+    {
+      "slide_index": 35,
+      "image_path": "slide_images/Biol1020_05/slide_0035.jpg",
+      "start_time": 1511.0,
+      "end_time": 1692.48,
+      "narration": "In the light reactions, sunlight actually excites chlorophyll. It excites the electrons in chlorophyll molecules. We've talked about in our last chapter how important electrons are, how they have potential energy, and when they move, then that changes to kinetic energy. Well, it's kind of the same idea here, is that sunlight hits chlorophyll and it bounces up electrons. Then we have some receivers that grab onto those electrons as well. Remember, electrons also like to travel with their hydrogen. So we have, again, kind of the taxicab that grabs onto them, the NAD, this time it's PH. For cell respiration, it was just NADH, but in photosynthesis, their molecule is NADPH. They grab that extra H on the end there. The light reactions are also going to generate some ATP, and they're going to produce some oxygen as well. The light reactions use water. That's why you need to water your plants. They actually split water. And they take the hydrogens, which contain their wonderful electrons, and then they use those electrons to move them along enzymes, just kind of like cell respiration here. When the electrons move along these enzymes, it pumps hydrogen down here into the middle of the thylakoid. So now we get that concentration gradient difference where hydrogen moves to an area and then moves down again. ATP synthase, which is strategically placed so that these hydrogens move down it and spin it, and so some ATP is made also from photosynthesis. Most people don't know that, but it is. But the electrons move forward, and I won't get into all the details here. The electrons move forward with their hydrogens through their little taxicab and are delivered to the stroma out here, where the Calvin cycle or light-independent reactions occur. So this part is really similar to cell respiration in that we're trying to gather electrons with their H's, of course. They travel as an H, and the taxicab molecule brings it to this last reaction here, the light-independent reactions, where we're going to use, again, those hydrogens with their electron to generate sugar this time, but in doing so, with some of the other things going on here, we are able to generate some ATP as well.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s035_u01",
+          "text": "In the light reactions, sunlight actually excites chlorophyll. It excites the electrons in chlorophyll molecules.",
+          "start_time": 1512.98,
+          "end_time": 1522.34
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u02",
+          "text": "We've talked about in our last chapter how important electrons are, how they have potential energy, and when they move, then that changes to kinetic energy.",
+          "start_time": 1522.82,
+          "end_time": 1533.14
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u03",
+          "text": "Well, it's kind of the same idea here, is that sunlight hits chlorophyll and it bounces up electrons.",
+          "start_time": 1534.34,
+          "end_time": 1542.82
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u04",
+          "text": "Then we have some receivers that grab onto those electrons as well. Remember, electrons also like to travel with their hydrogen. So we have, again, kind of the taxicab that grabs onto them, the NAD, this time it's PH. For cell respiration, it was just NADH, but in photosynthesis, their molecule is NADPH. They grab that extra H on the end there.",
+          "start_time": 1545.86,
+          "end_time": 1572.9
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u05",
+          "text": "The light reactions are also going to generate some ATP, and they're going to produce some oxygen as well.",
+          "start_time": 1574.18,
+          "end_time": 1581.62
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u06",
+          "text": "The light reactions use water. That's why you need to water your plants. They actually split water.",
+          "start_time": 1585.7,
+          "end_time": 1592.9
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u07",
+          "text": "And they take the hydrogens, which contain their wonderful electrons, and then they use those electrons to move them along enzymes, just kind of like cell respiration here.",
+          "start_time": 1593.54,
+          "end_time": 1605.62
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u08",
+          "text": "When the electrons move along these enzymes, it pumps hydrogen down here into the middle of the thylakoid. So now we get that concentration gradient difference where hydrogen moves to an area and then moves down again.",
+          "start_time": 1606.02,
+          "end_time": 1621.54
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u09",
+          "text": "ATP synthase, which is strategically placed so that these hydrogens move down it and spin it, and so some ATP is made also from photosynthesis. Most people don't know that, but it is.",
+          "start_time": 1621.86,
+          "end_time": 1635.06
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u10",
+          "text": "But the electrons move forward, and I won't get into all the details here. The electrons move forward with their hydrogens through their little taxicab and are delivered to the stroma out here, where the Calvin cycle or light-independent reactions occur.",
+          "start_time": 1636.26,
+          "end_time": 1656.26
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u11",
+          "text": "So this part is really similar to cell respiration in that we're trying to gather electrons with their H's, of course.",
+          "start_time": 1656.74,
+          "end_time": 1665.46
+        },
+        {
+          "unit_id": "Biol1020/05_s035_u12",
+          "text": "They travel as an H, and the taxicab molecule brings it to this last reaction here, the light-independent reactions, where we're going to use, again, those hydrogens with their electron to generate sugar this time, but in doing so, with some of the other things going on here, we are able to generate some ATP as well.",
+          "start_time": 1665.86,
+          "end_time": 1689.62
+        }
+      ]
+    },
+    {
+      "slide_index": 36,
+      "image_path": "slide_images/Biol1020_05/slide_0036.jpg",
+      "start_time": 1692.48,
+      "end_time": 1700.48,
+      "narration": "Which molecule is produced during the light reactions of photosynthesis? Well, that is oxygen.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s036_u01",
+          "text": "Which molecule is produced during the light reactions of photosynthesis? Well, that is oxygen.",
+          "start_time": 1694.67,
+          "end_time": 1700.48
+        }
+      ]
+    },
+    {
+      "slide_index": 37,
+      "image_path": "slide_images/Biol1020_05/slide_0037.jpg",
+      "start_time": 1700.48,
+      "end_time": 1719.48,
+      "narration": "And if I go back here, oxygen is produced when plants split water. When the H's and electrons are taken from the water, then we have oxygen left over as a byproduct. So the plant breathes that out.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s037_u01",
+          "text": "And if I go back here, oxygen is produced when plants split water. When the H's and electrons are taken from the water, then we have oxygen left over as a byproduct. So the plant breathes that out.",
+          "start_time": 1700.5,
+          "end_time": 1716.42
+        }
+      ]
+    },
+    {
+      "slide_index": 38,
+      "image_path": "slide_images/Biol1020_05/slide_0038.jpg",
+      "start_time": 1719.48,
+      "end_time": 1746.65,
+      "narration": "Which molecule is the final product of the light-independent reactions? Well, we haven't talked about that yet, but I hope from the equations that I showed you that you know that it is letter A, that it's the sugar glucose. There's some other molecules involved that are listed here that we'll talk about a little bit.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s038_u01",
+          "text": "Which molecule is the final product of the light-independent reactions? Well, we haven't talked about that yet, but I hope from the equations that I showed you that you know that it is letter A, that it's the sugar glucose.",
+          "start_time": 1723.53,
+          "end_time": 1738.41
+        },
+        {
+          "unit_id": "Biol1020/05_s038_u02",
+          "text": "There's some other molecules involved that are listed here that we'll talk about a little bit.",
+          "start_time": 1741.1,
+          "end_time": 1745.82
+        }
+      ]
+    },
+    {
+      "slide_index": 39,
+      "image_path": "slide_images/Biol1020_05/slide_0039.jpg",
+      "start_time": 1746.65,
+      "end_time": 1775.0,
+      "narration": "So the light-independent reactions, also known as the Calvin cycle, are a series of reactions that occur in the liquid portion of the chloroplast called the stroma. Their job is to use those H's that were gathered from the light reactions and even the ATP that was generated, and then produce sugar.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s039_u01",
+          "text": "So the light-independent reactions, also known as the Calvin cycle, are a series of reactions that occur in the liquid portion of the chloroplast called the stroma. Their job is to use those H's that were gathered from the light reactions and even the ATP that was generated, and then produce sugar.",
+          "start_time": 1747.1,
+          "end_time": 1772.46
+        }
+      ]
+    },
+    {
+      "slide_index": 40,
+      "image_path": "slide_images/Biol1020_05/slide_0040.jpg",
+      "start_time": 1775.0,
+      "end_time": 1824.0,
+      "narration": "The light-independent reactions, or Calvin cycle, begins with RuBP. This is the molecule that's coming off of the cycle. So the job is that this enzyme here, called Rubisco, ribulose biphosphate carboxylase oxygenase. You can tell it's an enzyme there with all the -ase endings. But this enzyme grabs carbon dioxide out of the air and then joins it with RuBP, which is coming off of the Calvin cycle, and makes a six-carbon molecule, which then, a series of reactions, breaks it into two three-carbon molecules.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s040_u01",
+          "text": "The light-independent reactions, or Calvin cycle, begins with RuBP. This is the molecule that's coming off of the cycle.",
+          "start_time": 1776.76,
+          "end_time": 1787.08
+        },
+        {
+          "unit_id": "Biol1020/05_s040_u02",
+          "text": "So the job is that this enzyme here, called Rubisco, ribulose biphosphate carboxylase oxygenase. You can tell it's an enzyme there with all the -ase endings.",
+          "start_time": 1787.8,
+          "end_time": 1803.08
+        },
+        {
+          "unit_id": "Biol1020/05_s040_u03",
+          "text": "But this enzyme grabs carbon dioxide out of the air and then joins it with RuBP, which is coming off of the Calvin cycle, and makes a six-carbon molecule, which then, a series of reactions, breaks it into two three-carbon molecules.",
+          "start_time": 1803.08,
+          "end_time": 1823.0
+        }
+      ]
+    },
+    {
+      "slide_index": 41,
+      "image_path": "slide_images/Biol1020_05/slide_0041.jpg",
+      "start_time": 1824.0,
+      "end_time": 1880.92,
+      "narration": "As we can see here, here we see Rubisco, the enzyme, grabbing RuBP coming off of the cycle. That's the leftovers from the last turn of the cycle. Also grabbing carbon dioxide out of the air, joining them together, and making a product that eventually results in what's called G3P. This is kind of the precursor of glucose. We don't actually end up with C6H12O6 glucose right away. It's going to take a little bit for the plant to actually build that, but G3P is a three-carbon molecule that can be used to make glucose eventually, and then the plant will be able to store that glucose as usually starch in its big storage vacuole that we know that plant cells have.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s041_u01",
+          "text": "As we can see here, here we see Rubisco, the enzyme, grabbing RuBP coming off of the cycle. That's the leftovers from the last turn of the cycle. Also grabbing carbon dioxide out of the air, joining them together, and making a product that eventually results in what's called G3P.",
+          "start_time": 1826.85,
+          "end_time": 1848.77
+        },
+        {
+          "unit_id": "Biol1020/05_s041_u02",
+          "text": "This is kind of the precursor of glucose. We don't actually end up with C6H12O6 glucose right away. It's going to take a little bit for the plant to actually build that, but G3P is a three-carbon molecule that can be used to make glucose eventually, and then the plant will be able to store that glucose as usually starch in its big storage vacuole that we know that plant cells have.",
+          "start_time": 1848.77,
+          "end_time": 1879.33
+        }
+      ]
+    },
+    {
+      "slide_index": 42,
+      "image_path": "slide_images/Biol1020_05/slide_0042.jpg",
+      "start_time": 1880.92,
+      "end_time": 1899.74,
+      "narration": "Again, there is a photosynthesis animation embedded into this PowerPoint, and if it doesn't work, just go to YouTube and do a search for photosynthesis animation, and you'll be able to find all kinds of videos that will pop up.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s042_u01",
+          "text": "Again, there is a photosynthesis animation embedded into this PowerPoint, and if it doesn't work, just go to YouTube and do a search for photosynthesis animation, and you'll be able to find all kinds of videos that will pop up.",
+          "start_time": 1883.51,
+          "end_time": 1899.19
+        }
+      ]
+    },
+    {
+      "slide_index": 43,
+      "image_path": "slide_images/Biol1020_05/slide_0043.jpg",
+      "start_time": 1899.74,
+      "end_time": 1968.0,
+      "narration": "So we've established that in order to do this wonderful process of photosynthesis, plants need carbon dioxide to do that, as well as water and other things as well. So how do plants allow carbon dioxide into their leaves? Leaves are like big solar panels attracting sunlight. Well, within the leaves are these little openings called stomata. And if you had a microscope and took a thin peel of a leaf, you'd be able to see stomata, and they look like this. They look like little eyeballs looking at you, actually, and they can open and close. So if they want to close to conserve water or not let air in, they can do that. Or they can open up wide and let lots of carbon dioxide into the leaf. But then also, when they are open, they will lose water as well. These cells that are kind of banana-shaped around the stomata are called guard cells, and they help regulate the stomata openings.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s043_u01",
+          "text": "So we've established that in order to do this wonderful process of photosynthesis, plants need carbon dioxide to do that, as well as water and other things as well.",
+          "start_time": 1899.92,
+          "end_time": 1912.8
+        },
+        {
+          "unit_id": "Biol1020/05_s043_u02",
+          "text": "So how do plants allow carbon dioxide into their leaves?",
+          "start_time": 1914.32,
+          "end_time": 1920.0
+        },
+        {
+          "unit_id": "Biol1020/05_s043_u03",
+          "text": "Leaves are like big solar panels attracting sunlight.",
+          "start_time": 1920.64,
+          "end_time": 1924.32
+        },
+        {
+          "unit_id": "Biol1020/05_s043_u04",
+          "text": "Well, within the leaves are these little openings called stomata.",
+          "start_time": 1924.8,
+          "end_time": 1928.24
+        },
+        {
+          "unit_id": "Biol1020/05_s043_u05",
+          "text": "And if you had a microscope and took a thin peel of a leaf, you'd be able to see stomata, and they look like this. They look like little eyeballs looking at you, actually,",
+          "start_time": 1928.64,
+          "end_time": 1940.72
+        },
+        {
+          "unit_id": "Biol1020/05_s043_u06",
+          "text": "and they can open and close. So if they want to close to conserve water or not let air in, they can do that. Or they can open up wide and let lots of carbon dioxide into the leaf. But then also, when they are open, they will lose water as well.",
+          "start_time": 1941.2,
+          "end_time": 1958.32
+        },
+        {
+          "unit_id": "Biol1020/05_s043_u07",
+          "text": "These cells that are kind of banana-shaped around the stomata are called guard cells, and they help regulate the stomata openings.",
+          "start_time": 1958.88,
+          "end_time": 1966.96
+        }
+      ]
+    },
+    {
+      "slide_index": 44,
+      "image_path": "slide_images/Biol1020_05/slide_0044.jpg",
+      "start_time": 1968.0,
+      "end_time": 2018.88,
+      "narration": "Transpiration is the movement of water through the stomata. Again, when the stomata are open, like we see here, they're letting carbon dioxide in, but they're losing water in the process. In a tropical plant, that's really not a problem, but in a desert plant, that might be a problem. We'll talk about that. When the stomata are closed, like we see in the bottom picture, water can be conserved, but getting carbon dioxide in then becomes a problem. So higher temperatures can lower the rate of photosynthesis because a plant doesn't want to leave its stomata open and then risk loss of all that water.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s044_u01",
+          "text": "Transpiration is the movement of water through the stomata.",
+          "start_time": 1970.37,
+          "end_time": 1973.73
+        },
+        {
+          "unit_id": "Biol1020/05_s044_u02",
+          "text": "Again, when the stomata are open, like we see here, they're letting carbon dioxide in, but they're losing water in the process.",
+          "start_time": 1974.93,
+          "end_time": 1984.05
+        },
+        {
+          "unit_id": "Biol1020/05_s044_u03",
+          "text": "In a tropical plant, that's really not a problem, but in a desert plant, that might be a problem. We'll talk about that.",
+          "start_time": 1985.97,
+          "end_time": 1992.61
+        },
+        {
+          "unit_id": "Biol1020/05_s044_u04",
+          "text": "When the stomata are closed, like we see in the bottom picture, water can be conserved, but getting carbon dioxide in then becomes a problem.",
+          "start_time": 1994.29,
+          "end_time": 2003.89
+        },
+        {
+          "unit_id": "Biol1020/05_s044_u05",
+          "text": "So higher temperatures can lower the rate of photosynthesis because a plant doesn't want to leave its stomata open and then risk loss of all that water.",
+          "start_time": 2005.41,
+          "end_time": 2016.69
+        }
+      ]
+    },
+    {
+      "slide_index": 45,
+      "image_path": "slide_images/Biol1020_05/slide_0045.jpg",
+      "start_time": 2018.88,
+      "end_time": 2032.96,
+      "narration": "What structures in land plants allow carbon dioxide to enter and oxygen gas to be released, as well as water? Well, that would be letter B, the stomata.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s045_u01",
+          "text": "What structures in land plants allow carbon dioxide to enter and oxygen gas to be released, as well as water? Well, that would be letter B, the stomata.",
+          "start_time": 2020.93,
+          "end_time": 2030.85
+        }
+      ]
+    },
+    {
+      "slide_index": 46,
+      "image_path": "slide_images/Biol1020_05/slide_0046.jpg",
+      "start_time": 2032.96,
+      "end_time": 2061.09,
+      "narration": "So back to that problem here, where plants have their stomata open, and then, well, that lets in a lot of carbon dioxide, so that's good for making sugar through photosynthesis, but it also risks the loss of water. Again, tropical plants, not a problem where there's plenty of moisture, but in a desert, that could be a huge problem.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s046_u01",
+          "text": "So back to that problem here, where plants have their stomata open, and then, well, that lets in a lot of carbon dioxide, so that's good for making sugar through photosynthesis, but it also risks the loss of water.",
+          "start_time": 2035.17,
+          "end_time": 2052.29
+        },
+        {
+          "unit_id": "Biol1020/05_s046_u02",
+          "text": "Again, tropical plants, not a problem where there's plenty of moisture, but in a desert, that could be a huge problem.",
+          "start_time": 2054.37,
+          "end_time": 2060.61
+        }
+      ]
+    },
+    {
+      "slide_index": 47,
+      "image_path": "slide_images/Biol1020_05/slide_0047.jpg",
+      "start_time": 2061.09,
+      "end_time": 2195.51,
+      "narration": "Well, there's a few reasons that plants have evolved other mechanisms, and the loss of water through the stomata is one of them. Another reason that plants have evolved another type of mechanism for photosynthesis is due to a process called photorespiration, and photorespiration counteracts photosynthesis. You see, Rubisco evolved a long time ago when there really wasn't a lot of oxygen on Earth. But it turns out that besides grabbing carbon dioxide out of the air, Rubisco also sometimes accidentally grabs oxygen. And that's not good. We want our photosynthetic enzyme Rubisco. We want that to grab carbon dioxide so that we can be very efficient and make sugar, carbohydrates. But if Rubisco grabs oxygen and then joins it to the RuBP, we make an acid. It's called glycolate. That really is not going to be useful to the plant. In fact, it makes an acid that must be destroyed. It creates more work for the plant, and the plant won't make sugar, and it won't make ATP, and it will release carbon dioxide instead of oxygen. It's kind of like in the picture below, where here Rubisco is supposed to be with CO2, but, well, once in a while it is good at grabbing oxygen as well. So again, that's called photorespiration. So it just shows us that our enzyme Rubisco is not perfect, though we wish it was, but it is not perfect. So it's another reason why plants have evolved another way to do photosynthesis to avoid some of these problems. Again, one of the problems to avoid is loss of water through the stomata, and another problem is to avoid having Rubisco grab the wrong molecule, oxygen.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s047_u01",
+          "text": "Well, there's a few reasons that plants have evolved other mechanisms, and the loss of water through the stomata is one of them.",
+          "start_time": 2063.91,
+          "end_time": 2074.95
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u02",
+          "text": "Another reason that plants have evolved another type of mechanism for photosynthesis is due to a process called photorespiration, and photorespiration counteracts photosynthesis.",
+          "start_time": 2075.35,
+          "end_time": 2089.59
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u03",
+          "text": "You see, Rubisco evolved a long time ago when there really wasn't a lot of oxygen on Earth.",
+          "start_time": 2090.31,
+          "end_time": 2097.27
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u04",
+          "text": "But it turns out that besides grabbing carbon dioxide out of the air, Rubisco also sometimes accidentally grabs oxygen. And that's not good.",
+          "start_time": 2098.07,
+          "end_time": 2111.11
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u05",
+          "text": "We want our photosynthetic enzyme Rubisco. We want that to grab carbon dioxide so that we can be very efficient and make sugar, carbohydrates.",
+          "start_time": 2111.43,
+          "end_time": 2123.51
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u06",
+          "text": "But if Rubisco grabs oxygen and then joins it to the RuBP, we make an acid. It's called glycolate. That really is not going to be useful to the plant. In fact, it makes an acid that must be destroyed.",
+          "start_time": 2123.91,
+          "end_time": 2140.95
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u07",
+          "text": "It creates more work for the plant, and the plant won't make sugar, and it won't make ATP, and it will release carbon dioxide instead of oxygen.",
+          "start_time": 2140.95,
+          "end_time": 2152.31
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u08",
+          "text": "It's kind of like in the picture below, where here Rubisco is supposed to be with CO2, but, well, once in a while it is good at grabbing oxygen as well.",
+          "start_time": 2153.27,
+          "end_time": 2164.15
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u09",
+          "text": "So again, that's called photorespiration. So it just shows us that our enzyme Rubisco is not perfect, though we wish it was, but it is not perfect.",
+          "start_time": 2164.55,
+          "end_time": 2174.55
+        },
+        {
+          "unit_id": "Biol1020/05_s047_u10",
+          "text": "So it's another reason why plants have evolved another way to do photosynthesis to avoid some of these problems. Again, one of the problems to avoid is loss of water through the stomata, and another problem is to avoid having Rubisco grab the wrong molecule, oxygen.",
+          "start_time": 2174.79,
+          "end_time": 2194.31
+        }
+      ]
+    },
+    {
+      "slide_index": 48,
+      "image_path": "slide_images/Biol1020_05/slide_0048.jpg",
+      "start_time": 2195.51,
+      "end_time": 2251.81,
+      "narration": "The type of photosynthesis that we've been talking about is called C3 photosynthesis, where that whole process actually resulted in making a three-carbon molecule that eventually we turn to sugar, or the plant turns to sugar. They are strictly only using that enzyme Rubisco, so we know once in a while Rubisco does grab oxygen by accident, so photorespiration may occur. They are able to conserve water when hot by closing their stomata. Soybeans are a good example of C3 plants. As the Earth warms, it's possible that the abundance of C3 plants may decline as a result of the increased burden of photorespiration.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s048_u01",
+          "text": "The type of photosynthesis that we've been talking about is called C3 photosynthesis, where that whole process actually resulted in making a three-carbon molecule that eventually we turn to sugar, or the plant turns to sugar.",
+          "start_time": 2195.81,
+          "end_time": 2213.09
+        },
+        {
+          "unit_id": "Biol1020/05_s048_u02",
+          "text": "They are strictly only using that enzyme Rubisco, so we know once in a while Rubisco does grab oxygen by accident, so photorespiration may occur.",
+          "start_time": 2213.65,
+          "end_time": 2225.17
+        },
+        {
+          "unit_id": "Biol1020/05_s048_u03",
+          "text": "They are able to conserve water when hot by closing their stomata.",
+          "start_time": 2225.25,
+          "end_time": 2231.49
+        },
+        {
+          "unit_id": "Biol1020/05_s048_u04",
+          "text": "Soybeans are a good example of C3 plants.",
+          "start_time": 2232.77,
+          "end_time": 2237.01
+        },
+        {
+          "unit_id": "Biol1020/05_s048_u05",
+          "text": "As the Earth warms, it's possible that the abundance of C3 plants may decline as a result of the increased burden of photorespiration.",
+          "start_time": 2239.65,
+          "end_time": 2251.41
+        }
+      ]
+    },
+    {
+      "slide_index": 49,
+      "image_path": "slide_images/Biol1020_05/slide_0049.jpg",
+      "start_time": 2251.81,
+      "end_time": 2358.8,
+      "narration": "In C4 plants, they're able to avoid that problem of photorespiration by using a different enzyme altogether initially to grab carbon dioxide out of the air. It's called PEP carboxylase. It's used to grab carbon dioxide out of the air. It's very good at it. And then it passes it on eventually then to Rubisco, who's a little deeper within the plant. And then photosynthesis occurs as normal, but it produces a four-carbon sugar instead of a three-carbon sugar. So we say C4 plants have additional pathways to concentrate carbon dioxide to produce their four-carbon sugars. Mostly grasses are C4 plants. As the Earth warms, it's possible that the abundance of C4 plants might increase. And again, C4 plants are mostly grasses, whereas most trees are the C3 plants. Because net rates of photosynthesis in grasslands, as measured by grams of carbon dioxide removed from the atmosphere per acre per year, are 30% to 60% less than the rates of forests, the replacement of trees with grasses significantly decreases the rate of removal of carbon dioxide from the atmosphere. Corn is also a C4 plant, besides grasses.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s049_u01",
+          "text": "In C4 plants, they're able to avoid that problem of photorespiration by using a different enzyme altogether initially to grab carbon dioxide out of the air. It's called PEP carboxylase. It's used to grab carbon dioxide out of the air. It's very good at it.",
+          "start_time": 2252.41,
+          "end_time": 2274.49
+        },
+        {
+          "unit_id": "Biol1020/05_s049_u02",
+          "text": "And then it passes it on eventually then to Rubisco, who's a little deeper within the plant. And then photosynthesis occurs as normal, but it produces a four-carbon sugar instead of a three-carbon sugar. So we say C4 plants have additional pathways to concentrate carbon dioxide to produce their four-carbon sugars.",
+          "start_time": 2275.13,
+          "end_time": 2300.17
+        },
+        {
+          "unit_id": "Biol1020/05_s049_u03",
+          "text": "Mostly grasses are C4 plants.",
+          "start_time": 2300.73,
+          "end_time": 2304.49
+        },
+        {
+          "unit_id": "Biol1020/05_s049_u04",
+          "text": "As the Earth warms, it's possible that the abundance of C4 plants might increase.",
+          "start_time": 2305.69,
+          "end_time": 2311.53
+        },
+        {
+          "unit_id": "Biol1020/05_s049_u05",
+          "text": "And again, C4 plants are mostly grasses, whereas most trees are the C3 plants.",
+          "start_time": 2312.89,
+          "end_time": 2320.81
+        },
+        {
+          "unit_id": "Biol1020/05_s049_u06",
+          "text": "Because net rates of photosynthesis in grasslands, as measured by grams of carbon dioxide removed from the atmosphere per acre per year, are 30% to 60% less than the rates of forests, the replacement of trees with grasses significantly decreases the rate of removal of carbon dioxide from the atmosphere.",
+          "start_time": 2323.85,
+          "end_time": 2347.53
+        },
+        {
+          "unit_id": "Biol1020/05_s049_u07",
+          "text": "Corn is also a C4 plant, besides grasses.",
+          "start_time": 2353.37,
+          "end_time": 2357.93
+        }
+      ]
+    },
+    {
+      "slide_index": 50,
+      "image_path": "slide_images/Biol1020_05/slide_0050.jpg",
+      "start_time": 2358.8,
+      "end_time": 2416.68,
+      "narration": "A third type of plant and third type of photosynthesis is called CAM photosynthesis. These plants typically live in drier areas and are trying to avoid that problem of losing water through their stomata. So to combat that, they close their stomata during the day, and then they open the stomata at night. So while the stomata are open at night, they allow carbon dioxide in, and then they store it as an organic acid. And then once the sun comes out for the day, the stomata close up, and then those organic acids that have the carbon dioxide stored within them are broken down and then used for photosynthesis during the day. Again, jade is an example of a CAM plant.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s050_u01",
+          "text": "A third type of plant and third type of photosynthesis is called CAM photosynthesis.",
+          "start_time": 2360.45,
+          "end_time": 2368.21
+        },
+        {
+          "unit_id": "Biol1020/05_s050_u02",
+          "text": "These plants typically live in drier areas and are trying to avoid that problem of losing water through their stomata.",
+          "start_time": 2369.57,
+          "end_time": 2376.53
+        },
+        {
+          "unit_id": "Biol1020/05_s050_u03",
+          "text": "So to combat that, they close their stomata during the day, and then they open the stomata at night.",
+          "start_time": 2377.01,
+          "end_time": 2384.29
+        },
+        {
+          "unit_id": "Biol1020/05_s050_u04",
+          "text": "So while the stomata are open at night, they allow carbon dioxide in, and then they store it as an organic acid.",
+          "start_time": 2384.85,
+          "end_time": 2393.09
+        },
+        {
+          "unit_id": "Biol1020/05_s050_u05",
+          "text": "And then once the sun comes out for the day, the stomata close up, and then those organic acids that have the carbon dioxide stored within them are broken down and then used for photosynthesis during the day.",
+          "start_time": 2393.89,
+          "end_time": 2408.61
+        },
+        {
+          "unit_id": "Biol1020/05_s050_u06",
+          "text": "Again, jade is an example of a CAM plant.",
+          "start_time": 2409.89,
+          "end_time": 2413.33
+        }
+      ]
+    },
+    {
+      "slide_index": 51,
+      "image_path": "slide_images/Biol1020_05/slide_0051.jpg",
+      "start_time": 2416.68,
+      "end_time": 2449.47,
+      "narration": "So, what type of plants open their stomata only at night? Well, that would be the CAM plants. They open their stomata at night and let the carbon dioxide in and conserve water that way. But photosynthesis still requires light, so they still do photosynthesis during the day. It's just that they have to collect their carbon dioxide at night. Again, as Earth warms up, amount or abundance of CAM plants will probably increase.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s051_u01",
+          "text": "So, what type of plants open their stomata only at night?",
+          "start_time": 2417.98,
+          "end_time": 2421.34
+        },
+        {
+          "unit_id": "Biol1020/05_s051_u02",
+          "text": "Well, that would be the CAM plants. They open their stomata at night and let the carbon dioxide in and conserve water that way. But photosynthesis still requires light, so they still do photosynthesis during the day. It's just that they have to collect their carbon dioxide at night.",
+          "start_time": 2421.58,
+          "end_time": 2440.14
+        },
+        {
+          "unit_id": "Biol1020/05_s051_u03",
+          "text": "Again, as Earth warms up, amount or abundance of CAM plants will probably increase.",
+          "start_time": 2441.66,
+          "end_time": 2449.18
+        }
+      ]
+    },
+    {
+      "slide_index": 52,
+      "image_path": "slide_images/Biol1020_05/slide_0052.jpg",
+      "start_time": 2449.47,
+      "end_time": 2582.92,
+      "narration": "So again, as Earth warms up, we have C4 plants and possibly even CAM plants outperforming the C3 plants. And as we've already established, C3 plants, like trees, actually take more carbon dioxide out of the air than do the C4 plants. So as the C4 plants outperform the C3 plants, deforestation, the loss of trees, can happen naturally in a warming Earth. But it's already happening at higher than natural rates, thanks to human activities. Deforestation occurs when forests are cleared for logging, farming, and over, ever-expanding human settlements. It contributes directly to the increase in carbon dioxide within the atmosphere. Current estimates are that up to 25% of the carbon dioxide introduced into the atmosphere originates from the cutting and burning of forests in just the tropics alone. Clearly, one effective way to reduce global warming is to reduce deforestation and promote photosynthesis by planting trees or C3 plants through reforestation projects. In the worst case, rising temperatures due to global warming will cause vegetative land to become desert, completely eliminating photosynthesis in certain areas. Conversely, warming temperatures will expose more snow and ice-covered regions, permitting additional photosynthesis in such regions as that. Unfortunately, enhanced carbon dioxide uptake is likely to be offset by carbon dioxide released from the more rapid decay of carbohydrates in the soil in these formerly frozen regions.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s052_u01",
+          "text": "So again, as Earth warms up, we have C4 plants and possibly even CAM plants outperforming the C3 plants.",
+          "start_time": 2449.78,
+          "end_time": 2459.54
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u02",
+          "text": "And as we've already established, C3 plants, like trees, actually take more carbon dioxide out of the air than do the C4 plants.",
+          "start_time": 2460.02,
+          "end_time": 2472.18
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u03",
+          "text": "So as the C4 plants outperform the C3 plants, deforestation, the loss of trees, can happen naturally in a warming Earth.",
+          "start_time": 2475.62,
+          "end_time": 2485.22
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u04",
+          "text": "But it's already happening at higher than natural rates, thanks to human activities.",
+          "start_time": 2486.26,
+          "end_time": 2492.74
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u05",
+          "text": "Deforestation occurs when forests are cleared for logging, farming, and over, ever-expanding human settlements.",
+          "start_time": 2494.42,
+          "end_time": 2501.62
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u06",
+          "text": "It contributes directly to the increase in carbon dioxide within the atmosphere.",
+          "start_time": 2502.02,
+          "end_time": 2507.14
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u07",
+          "text": "Current estimates are that up to 25% of the carbon dioxide introduced into the atmosphere originates from the cutting and burning of forests in just the tropics alone.",
+          "start_time": 2507.78,
+          "end_time": 2519.54
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u08",
+          "text": "Clearly, one effective way to reduce global warming is to reduce deforestation and promote photosynthesis by planting trees or C3 plants through reforestation projects.",
+          "start_time": 2520.26,
+          "end_time": 2536.1
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u09",
+          "text": "In the worst case, rising temperatures due to global warming will cause vegetative land to become desert, completely eliminating photosynthesis in certain areas.",
+          "start_time": 2542.66,
+          "end_time": 2554.5
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u10",
+          "text": "Conversely, warming temperatures will expose more snow and ice-covered regions, permitting additional photosynthesis in such regions as that.",
+          "start_time": 2555.14,
+          "end_time": 2565.14
+        },
+        {
+          "unit_id": "Biol1020/05_s052_u11",
+          "text": "Unfortunately, enhanced carbon dioxide uptake is likely to be offset by carbon dioxide released from the more rapid decay of carbohydrates in the soil in these formerly frozen regions.",
+          "start_time": 2565.94,
+          "end_time": 2580.58
+        }
+      ]
+    },
+    {
+      "slide_index": 53,
+      "image_path": "slide_images/Biol1020_05/slide_0053.jpg",
+      "start_time": 2582.92,
+      "end_time": 2654.0,
+      "narration": "Loss of ice and snow will also lead to increased heat gain of Earth's surface, as formerly reflective surfaces become darker and more absorbent of light energy. As we've seen, there's no guarantee that increased photosynthesis will soak up much of the excess carbon dioxide released by fossil fuel combustion. In fact, the overall rate of photosynthesis might even decline on a warmer planet. So how can we slow this problem of global climate change? Anthropogenic climate change has resulted in droughts in some areas and torrential rains in others. Climate change will cause the extinction of animals and plants that have narrow temperature requirements. Climate change has already contributed to the spread of infectious diseases and dangerous pests that were once limited to just the tropical environments by temperature alone.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s053_u01",
+          "text": "Loss of ice and snow will also lead to increased heat gain of Earth's surface, as formerly reflective surfaces become darker and more absorbent of light energy.",
+          "start_time": 2584.66,
+          "end_time": 2596.42
+        },
+        {
+          "unit_id": "Biol1020/05_s053_u02",
+          "text": "As we've seen, there's no guarantee that increased photosynthesis will soak up much of the excess carbon dioxide released by fossil fuel combustion. In fact, the overall rate of photosynthesis might even decline on a warmer planet.",
+          "start_time": 2597.3,
+          "end_time": 2613.38
+        },
+        {
+          "unit_id": "Biol1020/05_s053_u03",
+          "text": "So how can we slow this problem of global climate change?",
+          "start_time": 2618.1,
+          "end_time": 2624.1
+        },
+        {
+          "unit_id": "Biol1020/05_s053_u04",
+          "text": "Anthropogenic climate change has resulted in droughts in some areas and torrential rains in others.",
+          "start_time": 2626.5,
+          "end_time": 2633.22
+        },
+        {
+          "unit_id": "Biol1020/05_s053_u05",
+          "text": "Climate change will cause the extinction of animals and plants that have narrow temperature requirements.",
+          "start_time": 2633.7,
+          "end_time": 2640.34
+        },
+        {
+          "unit_id": "Biol1020/05_s053_u06",
+          "text": "Climate change has already contributed to the spread of infectious diseases and dangerous pests that were once limited to just the tropical environments by temperature alone.",
+          "start_time": 2642.18,
+          "end_time": 2653.3
+        }
+      ]
+    },
+    {
+      "slide_index": 54,
+      "image_path": "slide_images/Biol1020_05/slide_0054.jpg",
+      "start_time": 2654.0,
+      "end_time": 2738.0,
+      "narration": "Such as certain mosquitoes that could only live in tropical environments. A lot of these mosquitoes also carry certain diseases, and you are only limited to catching them if you lived in a tropical environment. But if the Earth warms, their territory will expand. In fact, it's already happening. This particular mosquito we see here, they're beginning to move into geographical areas where they were once excluded. Another problem with the increasing rate of carbon dioxide absorbed by the ocean is causing the ocean to get more acidic, or acidify, or acidification. This is damaging and killing coral reefs and threatening algae in the open ocean and the organisms that depend on them. Remember, algae are organisms that can do photosynthesis, but they're being threatened now because of the excess carbon dioxide. So clearly, excess carbon dioxide in the atmosphere is already imposing a cost on people.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s054_u01",
+          "text": "Such as certain mosquitoes that could only live in tropical environments. A lot of these mosquitoes also carry certain diseases, and you are only limited to catching them if you lived in a tropical environment. But if the Earth warms, their territory will expand.",
+          "start_time": 2655.96,
+          "end_time": 2680.28
+        },
+        {
+          "unit_id": "Biol1020/05_s054_u02",
+          "text": "In fact, it's already happening. This particular mosquito we see here, they're beginning to move into geographical areas where they were once excluded.",
+          "start_time": 2683.08,
+          "end_time": 2694.12
+        },
+        {
+          "unit_id": "Biol1020/05_s054_u03",
+          "text": "Another problem with the increasing rate of carbon dioxide absorbed by the ocean is causing the ocean to get more acidic, or acidify, or acidification. This is damaging and killing coral reefs and threatening algae in the open ocean and the organisms that depend on them.",
+          "start_time": 2699.64,
+          "end_time": 2720.92
+        },
+        {
+          "unit_id": "Biol1020/05_s054_u04",
+          "text": "Remember, algae are organisms that can do photosynthesis, but they're being threatened now because of the excess carbon dioxide.",
+          "start_time": 2721.56,
+          "end_time": 2730.12
+        },
+        {
+          "unit_id": "Biol1020/05_s054_u05",
+          "text": "So clearly, excess carbon dioxide in the atmosphere is already imposing a cost on people.",
+          "start_time": 2732.12,
+          "end_time": 2738.0
+        }
+      ]
+    },
+    {
+      "slide_index": 55,
+      "image_path": "slide_images/Biol1020_05/slide_0055.jpg",
+      "start_time": 2738.0,
+      "end_time": 2751.8,
+      "narration": "Which category do you think accounts for most of the carbon dioxide emissions for a country? Well, it's industry.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s055_u01",
+          "text": "Which category do you think accounts for most of the carbon dioxide emissions for a country? Well, it's industry.",
+          "start_time": 2742.07,
+          "end_time": 2749.51
+        }
+      ]
+    },
+    {
+      "slide_index": 56,
+      "image_path": "slide_images/Biol1020_05/slide_0056.jpg",
+      "start_time": 2751.8,
+      "end_time": 2818.0,
+      "narration": "The United States has a disproportionate impact on the rate of carbon dioxide emissions into the atmosphere. The United States is home to only 4% of the world population, but the United States produces close to 25% of the carbon dioxide emitted by fossil fuel burning. In fact, the average U.S. household is responsible for 50,000 kilograms of annual carbon dioxide emissions. The emissions rate of carbon dioxide is known as your carbon footprint. For an average American, it's twice that of a Japanese citizen or a German individual, three times that of the global average, four times that of someone from Sweden, and 20 times that of the average Indian.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s056_u01",
+          "text": "The United States has a disproportionate impact on the rate of carbon dioxide emissions into the atmosphere. The United States is home to only 4% of the world population, but the United States produces close to 25% of the carbon dioxide emitted by fossil fuel burning.",
+          "start_time": 2753.22,
+          "end_time": 2775.86
+        },
+        {
+          "unit_id": "Biol1020/05_s056_u02",
+          "text": "In fact, the average U.S. household is responsible for 50,000 kilograms of annual carbon dioxide emissions.",
+          "start_time": 2777.78,
+          "end_time": 2785.7
+        },
+        {
+          "unit_id": "Biol1020/05_s056_u03",
+          "text": "The emissions rate of carbon dioxide is known as your carbon footprint.",
+          "start_time": 2790.58,
+          "end_time": 2796.1
+        },
+        {
+          "unit_id": "Biol1020/05_s056_u04",
+          "text": "For an average American, it's twice that of a Japanese citizen or a German individual, three times that of the global average, four times that of someone from Sweden, and 20 times that of the average Indian.",
+          "start_time": 2797.14,
+          "end_time": 2814.26
+        }
+      ]
+    },
+    {
+      "slide_index": 57,
+      "image_path": "slide_images/Biol1020_05/slide_0057.jpg",
+      "start_time": 2818.0,
+      "end_time": 2893.0,
+      "narration": "Most of the emissions for an individual country come from industry, followed by transportation, and then by commercial, residential, and agricultural emissions. All of us can work to reduce our personal contribution to global warming by decreasing residential and transportation emissions. Most residential emissions are from energy used to heat and cool homes and to power electrical appliances. Transportation emissions are affected by our choice of vehicles for transport, and the fuel economy of our cars, and even the distances traveled. The following slides show ways that individuals, like average citizens, can decrease the greenhouse gas emissions, and it indicates the number of kilograms of carbon dioxide that each action could save annually. They might seem trivial in comparison of the scope of the problem, but when they're multiplied by more than 320 million people in the U.S., the savings then can become significant.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s057_u01",
+          "text": "Most of the emissions for an individual country come from industry, followed by transportation, and then by commercial, residential, and agricultural emissions.",
+          "start_time": 2821.0,
+          "end_time": 2832.36
+        },
+        {
+          "unit_id": "Biol1020/05_s057_u02",
+          "text": "All of us can work to reduce our personal contribution to global warming by decreasing residential and transportation emissions.",
+          "start_time": 2833.48,
+          "end_time": 2842.2
+        },
+        {
+          "unit_id": "Biol1020/05_s057_u03",
+          "text": "Most residential emissions are from energy used to heat and cool homes and to power electrical appliances.",
+          "start_time": 2844.68,
+          "end_time": 2851.64
+        },
+        {
+          "unit_id": "Biol1020/05_s057_u04",
+          "text": "Transportation emissions are affected by our choice of vehicles for transport, and the fuel economy of our cars, and even the distances traveled.",
+          "start_time": 2852.36,
+          "end_time": 2861.4
+        },
+        {
+          "unit_id": "Biol1020/05_s057_u05",
+          "text": "The following slides show ways that individuals, like average citizens, can decrease the greenhouse gas emissions, and it indicates the number of kilograms of carbon dioxide that each action could save annually.",
+          "start_time": 2863.64,
+          "end_time": 2880.04
+        },
+        {
+          "unit_id": "Biol1020/05_s057_u06",
+          "text": "They might seem trivial in comparison of the scope of the problem, but when they're multiplied by more than 320 million people in the U.S., the savings then can become significant.",
+          "start_time": 2881.0,
+          "end_time": 2892.68
+        }
+      ]
+    },
+    {
+      "slide_index": 58,
+      "image_path": "slide_images/Biol1020_05/slide_0058.jpg",
+      "start_time": 2893.0,
+      "end_time": 2902.0,
+      "narration": "Driving energy-efficient vehicles, carpooling,",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s058_u01",
+          "text": "Driving energy-efficient vehicles, carpooling,",
+          "start_time": 2897.53,
+          "end_time": 2901.93
+        }
+      ]
+    },
+    {
+      "slide_index": 59,
+      "image_path": "slide_images/Biol1020_05/slide_0059.jpg",
+      "start_time": 2902.0,
+      "end_time": 2911.0,
+      "narration": "recycling, walking instead of driving, buying higher-efficiency appliances,",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s059_u01",
+          "text": "recycling, walking instead of driving, buying higher-efficiency appliances,",
+          "start_time": 2903.64,
+          "end_time": 2911.0
+        }
+      ]
+    },
+    {
+      "slide_index": 60,
+      "image_path": "slide_images/Biol1020_05/slide_0060.jpg",
+      "start_time": 2911.0,
+      "end_time": 2934.0,
+      "narration": "Buying food and other products with reusable or recyclable packaging, or reduced packaging, using push mowers instead of power mowers, planting shade trees around the home to decrease energy consumption and to remove carbon dioxide by photosynthesis as an added bonus.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s060_u01",
+          "text": "Buying food and other products with reusable or recyclable packaging, or reduced packaging, using push mowers instead of power mowers, planting shade trees around the home to decrease energy consumption and to remove carbon dioxide by photosynthesis as an added bonus.",
+          "start_time": 2912.67,
+          "end_time": 2934.0
+        }
+      ]
+    },
+    {
+      "slide_index": 61,
+      "image_path": "slide_images/Biol1020_05/slide_0061.jpg",
+      "start_time": 2934.0,
+      "end_time": 2976.0,
+      "narration": "Having an effect on industrial, commercial, and agricultural sectors is difficult for any one individual. Changes in these areas will instead take leadership from those policymakers who are committed to reducing emissions. Making these changes requires that our leaders and all of us understand that even though the implications of and solutions to global warming may be open to debate, the fact that it is occurring at an unprecedented rate is not open to debate. The evidence, the data shows it is occurring,",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s061_u01",
+          "text": "Having an effect on industrial, commercial, and agricultural sectors is difficult for any one individual. Changes in these areas will instead take leadership from those policymakers who are committed to reducing emissions.",
+          "start_time": 2937.96,
+          "end_time": 2951.72
+        },
+        {
+          "unit_id": "Biol1020/05_s061_u02",
+          "text": "Making these changes requires that our leaders and all of us understand that even though the implications of and solutions to global warming may be open to debate, the fact that it is occurring at an unprecedented rate is not open to debate. The evidence, the data shows it is occurring,",
+          "start_time": 2952.2,
+          "end_time": 2974.6
+        }
+      ]
+    },
+    {
+      "slide_index": 62,
+      "image_path": "slide_images/Biol1020_05/slide_0062.jpg",
+      "start_time": 2976.0,
+      "end_time": 2990.68,
+      "narration": "Especially with the problem of the speed at which things are changing.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s062_u01",
+          "text": "Especially with the problem of the speed at which things are changing.",
+          "start_time": 2981.39,
+          "end_time": 2985.95
+        }
+      ]
+    },
+    {
+      "slide_index": 63,
+      "image_path": "slide_images/Biol1020_05/slide_0063.jpg",
+      "start_time": 2990.68,
+      "end_time": 3001.0,
+      "narration": "Again, be sure to review the learning outcomes for the chapter.",
+      "narration_units": [
+        {
+          "unit_id": "Biol1020/05_s063_u01",
+          "text": "Again, be sure to review the learning outcomes for the chapter.",
+          "start_time": 2991.26,
+          "end_time": 2995.42
+        }
+      ]
+    }
+  ]
+}

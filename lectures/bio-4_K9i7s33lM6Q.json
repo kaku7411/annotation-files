@@ -1,0 +1,1057 @@
+{
+  "lecture_id": "bio-4/K9i7s33lM6Q",
+  "source_dataset": "lpm",
+  "video_url": "https://www.youtube.com/watch?v=K9i7s33lM6Q",
+  "slides": [
+    {
+      "slide_index": 0,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0000.jpg",
+      "start_time": 0.0,
+      "end_time": 8.37,
+      "narration": "Hey, everyone, it's Dr. Marcon. This is the part in Chapter 16 on the respiratory system and gas exchange.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s000_u01",
+          "text": "Hey, everyone, it's Dr. Marcon.",
+          "start_time": 0.4,
+          "end_time": 1.84
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s000_u02",
+          "text": "This is the part in Chapter 16 on the respiratory system and gas exchange.",
+          "start_time": 1.84,
+          "end_time": 7.36
+        }
+      ]
+    },
+    {
+      "slide_index": 1,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0001.jpg",
+      "start_time": 8.37,
+      "end_time": 26.18,
+      "narration": "Our learning objectives for this section include describing the importance of gas exchange, specifying where oxygen is needed and where carbon dioxide is produced, as well as outlining the path air takes as it passes through your respiratory system.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s001_u01",
+          "text": "Our learning objectives for this section include describing the importance of gas exchange, specifying where oxygen is needed and where carbon dioxide is produced, as well as outlining the path air takes as it passes through your respiratory system.",
+          "start_time": 10.59,
+          "end_time": 24.75
+        }
+      ]
+    },
+    {
+      "slide_index": 2,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0002.jpg",
+      "start_time": 26.18,
+      "end_time": 73.45,
+      "narration": "So what is the point of breathing? What is the point of taking in air and blowing out air? So the main point or the main reason that we breathe is for gas exchange. We breathe in oxygen that our body needs, and we breathe out the waste products of metabolism, including carbon dioxide, or as you can see here with Tom Brady, being the little baby that he is, breathing out a lot of hot air, because that's all he's full of. So we sit here quietly, breathing in oxygen, delivering that oxygen to our tissues, and that carbon dioxide being delivered back to our lungs, and we breathe it out.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s002_u01",
+          "text": "So what is the point of breathing? What is the point of taking in air and blowing out air? So the main point or the main reason that we breathe is for gas exchange.",
+          "start_time": 27.6,
+          "end_time": 40.56
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s002_u02",
+          "text": "We breathe in oxygen that our body needs, and we breathe out the waste products of metabolism, including carbon dioxide,",
+          "start_time": 41.04,
+          "end_time": 50.0
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s002_u03",
+          "text": "or as you can see here with Tom Brady, being the little baby that he is, breathing out a lot of hot air, because that's all he's full of.",
+          "start_time": 50.08,
+          "end_time": 58.16
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s002_u04",
+          "text": "So we sit here quietly, breathing in oxygen, delivering that oxygen to our tissues, and that carbon dioxide being delivered back to our lungs, and we breathe it out.",
+          "start_time": 58.64,
+          "end_time": 71.84
+        }
+      ]
+    },
+    {
+      "slide_index": 3,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0003.jpg",
+      "start_time": 73.45,
+      "end_time": 164.8,
+      "narration": "So what is the need for gas exchange? So whether it's a bacterium, amoeba, starfish, tree, or person, why do we need it? So we talk about organisms that are heterotrophs. Heterotrophs are organisms that cannot produce their own food. Instead, heterotrophs take nutrition from other sources of organic carbon, for example, sugars in food. We talked about carbohydrates being one of the main macromolecules, one of the main sources of carbon, and the sugars in the food are broken down into nutrients that the organism needs, and one of the waste products is carbon dioxide. Now, this whole process is assisted by oxygen, and a byproduct of this process is also water, or H2O. On the other hand, we have autotrophs. Autotrophs are able to make their own carbon sources. They use carbon dioxide, which are then packed to make sugars. With this process, we can see that water, H2O, is then split into oxygen. So we can see that both heterotrophs and autotrophs heavily rely on gas exchange for assistance with metabolism.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s003_u01",
+          "text": "So what is the need for gas exchange? So whether it's a bacterium, amoeba, starfish, tree, or person, why do we need it?",
+          "start_time": 74.79,
+          "end_time": 86.71
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s003_u02",
+          "text": "So we talk about organisms that are heterotrophs. Heterotrophs are organisms that cannot produce their own food. Instead, heterotrophs take nutrition from other sources of organic carbon, for example, sugars in food.",
+          "start_time": 87.51,
+          "end_time": 104.39
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s003_u03",
+          "text": "We talked about carbohydrates being one of the main macromolecules, one of the main sources of carbon, and the sugars in the food are broken down into nutrients that the organism needs, and one of the waste products is carbon dioxide. Now, this whole process is assisted by oxygen, and a byproduct of this process is also water, or H2O.",
+          "start_time": 104.79,
+          "end_time": 131.43
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s003_u04",
+          "text": "On the other hand, we have autotrophs. Autotrophs are able to make their own carbon sources.",
+          "start_time": 131.51,
+          "end_time": 140.07
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s003_u05",
+          "text": "They use carbon dioxide, which are then packed to make sugars. With this process, we can see that water, H2O, is then split into oxygen.",
+          "start_time": 140.07,
+          "end_time": 153.19
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s003_u06",
+          "text": "So we can see that both heterotrophs and autotrophs heavily rely on gas exchange for assistance with metabolism.",
+          "start_time": 153.99,
+          "end_time": 163.43
+        }
+      ]
+    },
+    {
+      "slide_index": 4,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0004.jpg",
+      "start_time": 164.8,
+      "end_time": 301.53,
+      "narration": "In a circulatory system, we can see that we have our red blood cells that travel through our blood vessels. In the lungs specifically, we have structures called alveoli. These are thin-walled, grape-like structures that allow for gas exchange between those structures within the lungs and the red blood cells that are circulating in the lung capillaries. So again, where does gas exchange need to occur? It needs to occur between not only the lungs and the capillaries or the capillary system within the lungs, but also in the systemic circuit, where we have capillary exchange between the capillaries of the body and the cells and tissues and organs of the body. So within the lungs, when we breathe in oxygen, oxygen will travel across into the pulmonary capillaries, and in exchange, carbon dioxide will be exchanged so that we can exhale or breathe out carbon dioxide. So we can see these molecules are oxygen, whereas these three molecules are carbon dioxide. So we can see the exchange within the pulmonary circuit. So again, air in the lungs, and then in the system or in the body, blood capillaries. Okay, so the air is exchanged from the lungs into the capillaries across, being picked up by the red blood cells in the blood, and then in the system between the blood capillaries and the tissues and the cells that make up those tissues. Okay, so we can see in the body the oxygen is being delivered to the cells and tissues and eventually the organs of our body. And the waste product of metabolism will be that carbon dioxide, which will then travel back to the heart and go through that pulmonary circulation that we talked about earlier.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s004_u01",
+          "text": "In a circulatory system, we can see that we have our red blood cells that travel through our blood vessels.",
+          "start_time": 168.46,
+          "end_time": 178.22
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s004_u02",
+          "text": "In the lungs specifically, we have structures called alveoli. These are thin-walled, grape-like structures that allow for gas exchange between those structures within the lungs and the red blood cells that are circulating in the lung capillaries.",
+          "start_time": 178.78,
+          "end_time": 197.98
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s004_u03",
+          "text": "So again, where does gas exchange need to occur? It needs to occur between not only the lungs and the capillaries or the capillary system within the lungs, but also in the systemic circuit, where we have capillary exchange between the capillaries of the body and the cells and tissues and organs of the body.",
+          "start_time": 200.7,
+          "end_time": 223.66
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s004_u04",
+          "text": "So within the lungs, when we breathe in oxygen, oxygen will travel across into the pulmonary capillaries, and in exchange, carbon dioxide will be exchanged so that we can exhale or breathe out carbon dioxide. So we can see these molecules are oxygen, whereas these three molecules are carbon dioxide. So we can see the exchange within the pulmonary circuit.",
+          "start_time": 223.98,
+          "end_time": 250.7
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s004_u05",
+          "text": "So again, air in the lungs, and then in the system or in the body, blood capillaries.",
+          "start_time": 252.94,
+          "end_time": 260.94
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s004_u06",
+          "text": "Okay, so the air is exchanged from the lungs into the capillaries across, being picked up by the red blood cells in the blood, and then in the system between the blood capillaries and the tissues and the cells that make up those tissues.",
+          "start_time": 261.1,
+          "end_time": 280.78
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s004_u07",
+          "text": "Okay, so we can see in the body the oxygen is being delivered to the cells and tissues and eventually the organs of our body.",
+          "start_time": 280.78,
+          "end_time": 289.34
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s004_u08",
+          "text": "And the waste product of metabolism will be that carbon dioxide, which will then travel back to the heart and go through that pulmonary circulation that we talked about earlier.",
+          "start_time": 289.74,
+          "end_time": 300.94
+        }
+      ]
+    },
+    {
+      "slide_index": 5,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0005.jpg",
+      "start_time": 301.53,
+      "end_time": 367.5,
+      "narration": "We know that gas moves by diffusion, and we talked about diffusion earlier. Diffusion does not require, is a passive process, so this does not require energy or ATP. So gases will diffuse from high pressure, so areas of high pressure, to areas of low pressure. So we can see that the oxygen, or the air in the lungs, moves through the single-walled layer of the alveoli into the capillaries, where the red blood cells are waiting for them. So there's higher pressure within the lungs and lower pressure within the capillaries. So we have high partial pressure of oxygen within the lungs, and that allows for diffusion of oxygen from an area of high pressure to an area of low pressure within the capillaries where the blood is.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s005_u01",
+          "text": "We know that gas moves by diffusion, and we talked about diffusion earlier.",
+          "start_time": 302.87,
+          "end_time": 307.99
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s005_u02",
+          "text": "Diffusion does not require, is a passive process, so this does not require energy or ATP.",
+          "start_time": 308.07,
+          "end_time": 316.15
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s005_u03",
+          "text": "So gases will diffuse from high pressure, so areas of high pressure, to areas of low pressure.",
+          "start_time": 316.71,
+          "end_time": 323.35
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s005_u04",
+          "text": "So we can see that the oxygen, or the air in the lungs, moves through the single-walled layer of the alveoli into the capillaries, where the red blood cells are waiting for them. So there's higher pressure within the lungs and lower pressure within the capillaries. So we have high partial pressure of oxygen within the lungs, and that allows for diffusion of oxygen from an area of high pressure to an area of low pressure within the capillaries where the blood is.",
+          "start_time": 323.83,
+          "end_time": 363.83
+        }
+      ]
+    },
+    {
+      "slide_index": 6,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0006.jpg",
+      "start_time": 367.5,
+      "end_time": 419.48,
+      "narration": "There's a very important protein that is, that makes up our red blood cell, and this is hemoglobin. Hemoglobin is the oxygen transporter. Now, why does hemoglobin carry oxygen? We know that oxygen does not dissolve very well within the blood, so on the red blood cell, we have hemoglobin, which is a protein that allows for attachment sites of oxygen. So we can see the hemoglobin binding sites on the red blood cell. The oxygen molecule will bind to those hemoglobin binding sites, and the hemoglobin are what carry the oxygen throughout the body.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s006_u01",
+          "text": "There's a very important protein that is, that makes up our red blood cell, and this is hemoglobin. Hemoglobin is the oxygen transporter.",
+          "start_time": 370.44,
+          "end_time": 381.4
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s006_u02",
+          "text": "Now, why does hemoglobin carry oxygen? We know that oxygen does not dissolve very well within the blood, so on the red blood cell, we have hemoglobin, which is a protein that allows for attachment sites of oxygen.",
+          "start_time": 381.8,
+          "end_time": 403.24
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s006_u03",
+          "text": "So we can see the hemoglobin binding sites on the red blood cell. The oxygen molecule will bind to those hemoglobin binding sites, and the hemoglobin are what carry the oxygen throughout the body.",
+          "start_time": 403.8,
+          "end_time": 417.32
+        }
+      ]
+    },
+    {
+      "slide_index": 7,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0007.jpg",
+      "start_time": 419.48,
+      "end_time": 452.5,
+      "narration": "So again, we see those binding sites within hemoglobin, allowing for the transport of oxygen. So iron actually is part of hemoglobin. Hemoglobin is actually what gives us that reddish color to our blood because of the iron content of hemoglobin. So we have a heme molecule as well as an iron molecule, and these components will bind oxygen.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s007_u01",
+          "text": "So again, we see those binding sites within hemoglobin, allowing for the transport of oxygen.",
+          "start_time": 421.86,
+          "end_time": 430.02
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s007_u02",
+          "text": "So iron actually is part of hemoglobin.",
+          "start_time": 430.58,
+          "end_time": 433.7
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s007_u03",
+          "text": "Hemoglobin is actually what gives us that reddish color to our blood because of the iron content of hemoglobin.",
+          "start_time": 434.26,
+          "end_time": 443.38
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s007_u04",
+          "text": "So we have a heme molecule as well as an iron molecule, and these components will bind oxygen.",
+          "start_time": 443.86,
+          "end_time": 450.5
+        }
+      ]
+    },
+    {
+      "slide_index": 8,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0008.jpg",
+      "start_time": 452.5,
+      "end_time": 476.73,
+      "narration": "We know that there are over 270 million hemoglobin per red blood cell. So at any given time in the human body, we have anywhere between 20 to 30 trillion red blood cells. And that amounts to many molecules of hemoglobin, which also transports oxygen.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s008_u01",
+          "text": "We know that there are over 270 million hemoglobin per red blood cell.",
+          "start_time": 454.4,
+          "end_time": 460.64
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s008_u02",
+          "text": "So at any given time in the human body, we have anywhere between 20 to 30 trillion red blood cells.",
+          "start_time": 461.12,
+          "end_time": 468.16
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s008_u03",
+          "text": "And that amounts to many molecules of hemoglobin, which also transports oxygen.",
+          "start_time": 468.56,
+          "end_time": 475.52
+        }
+      ]
+    },
+    {
+      "slide_index": 9,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0009.jpg",
+      "start_time": 476.73,
+      "end_time": 588.15,
+      "narration": "Now we have to think, is carbon dioxide a poison? Actually, carbon dioxide helps hemoglobin release more oxygen to hard-working tissues. Our brain actually decides how fast we breathe by monitoring carbon dioxide or carbonic acid levels in our blood. So if we, if our brain knows that we have high levels of carbonic acid, or we, it tells our respiratory systems to actually breathe harder so that we can release more carbon dioxide and bring in more oxygen. So where there's more carbon dioxide being made, more oxygen is actually being released by hemoglobin, allowing work to continue. Okay, so we have those monitoring centers in our brain, known as the breathing control centers, which will effectively not only monitor the carbon dioxide in our blood, but give signals to our respiratory muscles to breathe a little harder to release that carbon dioxide and breathe in more oxygen. So the harder our tissues are working, the more sugars can be made into carbon dioxide. This carbonic acid is actually acidic, so it will decrease the blood pH. In effect, it will tell the medulla oblongata where our respiratory center is to increase the breathing rate. So a decrease in blood pH stimulates the medulla to increase the breathing rate so that we can release more carbon dioxide and breathe in more oxygen to increase our blood pH back to normal.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s009_u01",
+          "text": "Now we have to think, is carbon dioxide a poison? Actually, carbon dioxide helps hemoglobin release more oxygen to hard-working tissues.",
+          "start_time": 479.99,
+          "end_time": 489.67
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s009_u02",
+          "text": "Our brain actually decides how fast we breathe by monitoring carbon dioxide or carbonic acid levels in our blood.",
+          "start_time": 490.23,
+          "end_time": 498.87
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s009_u03",
+          "text": "So if we, if our brain knows that we have high levels of carbonic acid, or we, it tells our respiratory systems to actually breathe harder so that we can release more carbon dioxide and bring in more oxygen.",
+          "start_time": 499.35,
+          "end_time": 515.43
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s009_u04",
+          "text": "So where there's more carbon dioxide being made, more oxygen is actually being released by hemoglobin, allowing work to continue.",
+          "start_time": 515.75,
+          "end_time": 523.19
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s009_u05",
+          "text": "Okay, so we have those monitoring centers in our brain, known as the breathing control centers, which will effectively not only monitor the carbon dioxide in our blood, but give signals to our respiratory muscles to breathe a little harder to release that carbon dioxide and breathe in more oxygen.",
+          "start_time": 523.67,
+          "end_time": 546.31
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s009_u06",
+          "text": "So the harder our tissues are working, the more sugars can be made into carbon dioxide. This carbonic acid is actually acidic, so it will decrease the blood pH. In effect, it will tell the medulla oblongata where our respiratory center is to increase the breathing rate. So a decrease in blood pH stimulates the medulla to increase the breathing rate so that we can release more carbon dioxide and breathe in more oxygen to increase our blood pH back to normal.",
+          "start_time": 548.79,
+          "end_time": 587.19
+        }
+      ]
+    },
+    {
+      "slide_index": 10,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0010.jpg",
+      "start_time": 588.15,
+      "end_time": 667.95,
+      "narration": "So now we're going to talk about the different structures within the respiratory system. We can actually divide the respiratory system into the upper respiratory tract and the lower respiratory tract. Now, different books will have different definitions for the upper respiratory tract as well as the lower respiratory tract. In this picture, the upper respiratory tract actually includes the nasal cavity, the pharynx, and the larynx. And we know that the larynx has a structure known as the epiglottis, which we'll talk about, which is a structure made out of cartilage, which prevents food from going down into the lower respiratory tract. And here we see the lower respiratory tract being made up of the trachea, this long tube right here, which will then fork or bifurcate into primary or main bronchi, which will then be further divided into smaller branches called bronchioles, and then eventually into our lungs. We have the right and left lung, and then we talked about those structures called alveoli, which are the terminal structures found at the end of bronchioles that are thin-walled and allow for gas exchange between the pulmonary capillaries and the alveoli.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s010_u01",
+          "text": "So now we're going to talk about the different structures within the respiratory system.",
+          "start_time": 590.05,
+          "end_time": 595.41
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s010_u02",
+          "text": "We can actually divide the respiratory system into the upper respiratory tract and the lower respiratory tract.",
+          "start_time": 596.37,
+          "end_time": 602.93
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s010_u03",
+          "text": "Now, different books will have different definitions for the upper respiratory tract as well as the lower respiratory tract.",
+          "start_time": 602.93,
+          "end_time": 608.93
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s010_u04",
+          "text": "In this picture, the upper respiratory tract actually includes the nasal cavity, the pharynx, and the larynx.",
+          "start_time": 609.33,
+          "end_time": 615.17
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s010_u05",
+          "text": "And we know that the larynx has a structure known as the epiglottis, which we'll talk about, which is a structure made out of cartilage, which prevents food from going down into the lower respiratory tract.",
+          "start_time": 615.49,
+          "end_time": 628.61
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s010_u06",
+          "text": "And here we see the lower respiratory tract being made up of the trachea, this long tube right here, which will then fork or bifurcate into primary or main bronchi, which will then be further divided into smaller branches called bronchioles, and then eventually into our lungs.",
+          "start_time": 629.09,
+          "end_time": 648.77
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s010_u07",
+          "text": "We have the right and left lung, and then we talked about those structures called alveoli, which are the terminal structures found at the end of bronchioles that are thin-walled and allow for gas exchange between the pulmonary capillaries and the alveoli.",
+          "start_time": 649.09,
+          "end_time": 665.73
+        }
+      ]
+    },
+    {
+      "slide_index": 11,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0011.jpg",
+      "start_time": 667.95,
+      "end_time": 790.05,
+      "narration": "So what are the respiratory organs made up of? One main structure that we want to talk about is the epithelium. So epithelium is the lining or protective layer of tissue. Within the epithelium, the main epithelium within the respiratory tract, specifically in the upper respiratory tract, is a pseudostratified ciliated columnar epithelium. When you get into the more detailed structures of connective tissue, especially in anatomy, you'll learn about epithelium and the different types of epithelium that line the body. Pseudostratified, that means it just looks like it is a, it has a stratified appearance when in reality it's actually still a simple epithelium, meaning there's only one layer of cells. And then ciliated means they have these structures called cilia at the tops or the apical portion of the cells. And these structures are very important. But within the epithelium, we also have mucous cells. These are goblet cells that will produce mucus not only to moisten the air, but to help trap any bacteria or any foreign bodies that might come into the respiratory system. And the cilia are tiny hair-like projections on epithelial cells, also help with that trapping function of these cells to kind of move things along so that we can expectorate any foreign bodies that might get trapped within our respiratory system. Mucus cells also produce mucus to help moisten the air so that we're not breathing in cold air that might cause irritation to the respiratory structures. And again, we also have blood vessels that help to warm the air.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u01",
+          "text": "So what are the respiratory organs made up of? One main structure that we want to talk about is the epithelium. So epithelium is the lining or protective layer of tissue.",
+          "start_time": 671.05,
+          "end_time": 683.13
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u02",
+          "text": "Within the epithelium, the main epithelium within the respiratory tract, specifically in the upper respiratory tract, is a pseudostratified ciliated columnar epithelium.",
+          "start_time": 685.85,
+          "end_time": 696.41
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u03",
+          "text": "When you get into the more detailed structures of connective tissue, especially in anatomy, you'll learn about epithelium and the different types of epithelium that line the body.",
+          "start_time": 697.05,
+          "end_time": 709.13
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u04",
+          "text": "Pseudostratified, that means it just looks like it is a, it has a stratified appearance when in reality it's actually still a simple epithelium, meaning there's only one layer of cells.",
+          "start_time": 709.53,
+          "end_time": 721.37
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u05",
+          "text": "And then ciliated means they have these structures called cilia at the tops or the apical portion of the cells. And these structures are very important.",
+          "start_time": 722.01,
+          "end_time": 733.05
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u06",
+          "text": "But within the epithelium, we also have mucous cells. These are goblet cells that will produce mucus not only to moisten the air, but to help trap any bacteria or any foreign bodies that might come into the respiratory system.",
+          "start_time": 733.45,
+          "end_time": 750.17
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u07",
+          "text": "And the cilia are tiny hair-like projections on epithelial cells, also help with that trapping function of these cells to kind of move things along so that we can expectorate any foreign bodies that might get trapped within our respiratory system.",
+          "start_time": 752.09,
+          "end_time": 771.53
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u08",
+          "text": "Mucus cells also produce mucus to help moisten the air so that we're not breathing in cold air that might cause irritation to the respiratory structures.",
+          "start_time": 772.01,
+          "end_time": 783.05
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s011_u09",
+          "text": "And again, we also have blood vessels that help to warm the air.",
+          "start_time": 785.13,
+          "end_time": 789.05
+        }
+      ]
+    },
+    {
+      "slide_index": 12,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0012.jpg",
+      "start_time": 790.05,
+      "end_time": 913.8,
+      "narration": "Now, how does your respiratory system defend itself? We talked about those previous structures, like the mucus or goblet cells that produce mucus to trap microorganisms, the cilia at the top portion or the apical portion of the cells that will help push these microorganisms and mucus up and out. And we call that expectorating or expectoration. So the cleansing activity of cilia can be damaged by smoking. So kids, I'm going to get up on my soapbox for just a couple seconds. Don't smoke. It's, it does a lot of damage not only to your respiratory system, but it is basically one of the main types of cancer that you can prevent, one of the more preventable types of cancers. So just don't even smoke. It's not worth it. It does a lot of damage. Even vaping, studies are showing that it also damages the lining of the respiratory system. So smoking impairs the defense provided by the cilia and results in a very disgusting and very unhealthy smoker's cough. See, we can actually take a look at what healthy cilia in a healthy airway looks like. And in the bottom picture, we see the smoker's airway where there has been damage done by inhalation of smoke. Now the cough reflex, this is a reflex that prevents choking. This is a sudden expulsion of air from the lungs in an attempt to dislodge material. For example, right now I have a little bit of stuff in my lungs, so I'm going to drink some water. And if I need to, just maybe have a little cough. But for the most part, this is a very important reflex, help us, helps to prevent us from choking in case it goes down into our trachea.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u01",
+          "text": "Now, how does your respiratory system defend itself?",
+          "start_time": 791.07,
+          "end_time": 793.87
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u02",
+          "text": "We talked about those previous structures, like the mucus or goblet cells that produce mucus to trap microorganisms, the cilia at the top portion or the apical portion of the cells that will help push these microorganisms and mucus up and out. And we call that expectorating or expectoration.",
+          "start_time": 793.87,
+          "end_time": 815.63
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u03",
+          "text": "So the cleansing activity of cilia can be damaged by smoking.",
+          "start_time": 816.75,
+          "end_time": 820.43
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u04",
+          "text": "So kids, I'm going to get up on my soapbox for just a couple seconds.",
+          "start_time": 820.43,
+          "end_time": 824.11
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u05",
+          "text": "Don't smoke. It's, it does a lot of damage not only to your respiratory system, but it is basically one of the main types of cancer that you can prevent, one of the more preventable types of cancers. So just don't even smoke. It's not worth it. It does a lot of damage.",
+          "start_time": 824.11,
+          "end_time": 842.99
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u06",
+          "text": "Even vaping, studies are showing that it also damages the lining of the respiratory system.",
+          "start_time": 843.07,
+          "end_time": 851.47
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u07",
+          "text": "So smoking impairs the defense provided by the cilia and results in a very disgusting and very unhealthy smoker's cough.",
+          "start_time": 851.87,
+          "end_time": 865.23
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u08",
+          "text": "See, we can actually take a look at what healthy cilia in a healthy airway looks like. And in the bottom picture, we see the smoker's airway where there has been damage done by inhalation of smoke.",
+          "start_time": 866.59,
+          "end_time": 881.23
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u09",
+          "text": "Now the cough reflex, this is a reflex that prevents choking. This is a sudden expulsion of air from the lungs in an attempt to dislodge material.",
+          "start_time": 883.07,
+          "end_time": 890.99
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u10",
+          "text": "For example, right now I have a little bit of stuff in my lungs, so I'm going to drink some water. And if I need to, just maybe have a little cough.",
+          "start_time": 891.31,
+          "end_time": 903.31
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s012_u11",
+          "text": "But for the most part, this is a very important reflex, help us, helps to prevent us from choking in case it goes down into our trachea.",
+          "start_time": 903.79,
+          "end_time": 911.39
+        }
+      ]
+    },
+    {
+      "slide_index": 13,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0013.jpg",
+      "start_time": 913.8,
+      "end_time": 977.8,
+      "narration": "So a very important structure, one of the first structures in our upper respiratory tract, is the nose. The nose helps moisten, filter, and warms the air, and has receptors for smell too. From the nose, air will travel into the nasal cavity and then hit that first part of the pharynx. Pharynx is a very common passageway. It connects the nasal cavity to the next part of the respiratory system, which is the larynx. If you get into more detailed structures, we know that the pharynx is made up of different parts. The part that is most posterior to the nasal cavity is the nasopharynx, and then we have a part of the pharynx that's posterior to the oral cavity, which is called the oropharynx, and then finally we hit the part of the pharynx near the larynx, which is the laryngopharynx.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s013_u01",
+          "text": "So a very important structure, one of the first structures in our upper respiratory tract, is the nose. The nose helps moisten, filter, and warms the air, and has receptors for smell too.",
+          "start_time": 916.5,
+          "end_time": 930.18
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s013_u02",
+          "text": "From the nose, air will travel into the nasal cavity and then hit that first part of the pharynx. Pharynx is a very common passageway. It connects the nasal cavity to the next part of the respiratory system, which is the larynx.",
+          "start_time": 932.5,
+          "end_time": 952.18
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s013_u03",
+          "text": "If you get into more detailed structures, we know that the pharynx is made up of different parts. The part that is most posterior to the nasal cavity is the nasopharynx, and then we have a part of the pharynx that's posterior to the oral cavity, which is called the oropharynx, and then finally we hit the part of the pharynx near the larynx, which is the laryngopharynx.",
+          "start_time": 952.9,
+          "end_time": 977.38
+        }
+      ]
+    },
+    {
+      "slide_index": 14,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0014.jpg",
+      "start_time": 977.8,
+      "end_time": 1023.55,
+      "narration": "So from the pharynx, we will then hit the next respiratory structures, which are the epiglottis and the larynx. So the epiglottis is a flap of cartilage that helps protect the airways, specifically the trachea. So the larynx is a flap of cartilage that kind of goes over, I'm sorry, the epiglottis is a flap of cartilage that goes over the larynx, which is the voice box. It's the structure that allows us for to produce words and phonation. We can see that it is at the top portion of the larynx. Here is that larynx right there, which is continuous with the trachea.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s014_u01",
+          "text": "So from the pharynx, we will then hit the next respiratory structures, which are the epiglottis and the larynx.",
+          "start_time": 978.02,
+          "end_time": 987.3
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s014_u02",
+          "text": "So the epiglottis is a flap of cartilage that helps protect the airways, specifically the trachea.",
+          "start_time": 987.7,
+          "end_time": 996.74
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s014_u03",
+          "text": "So the larynx is a flap of cartilage that kind of goes over, I'm sorry, the epiglottis is a flap of cartilage that goes over the larynx, which is the voice box.",
+          "start_time": 998.26,
+          "end_time": 1007.06
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s014_u04",
+          "text": "It's the structure that allows us for to produce words and phonation.",
+          "start_time": 1007.06,
+          "end_time": 1012.82
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s014_u05",
+          "text": "We can see that it is at the top portion of the larynx.",
+          "start_time": 1013.38,
+          "end_time": 1017.06
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s014_u06",
+          "text": "Here is that larynx right there, which is continuous with the trachea.",
+          "start_time": 1017.06,
+          "end_time": 1022.98
+        }
+      ]
+    },
+    {
+      "slide_index": 15,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0015.jpg",
+      "start_time": 1023.55,
+      "end_time": 1105.58,
+      "narration": "So what causes choking? A very nasty habit, of course, is eating and talking at the same time. I know a lot of people are guilty of it. My mom is very guilty of it. But know that while we're eating and talking at the same time, we're eating and also bringing in air. That epiglottis is supposed to cover that larynx so that food can continue on into the esophagus, which is located more posteriorly, because we know that the pharynx actually connects not only the nasal cavity but the oral cavity. So the epiglottis will close off the larynx to allow for food to be directed into the esophagus, which will lead into the stomach. However, if that epiglottis doesn't close for whatever reason, if we're talking and eating at the same time, food may accidentally go into the larynx and cause us to choke. So it's very important that, you know, not only do we not eat and talk at the same time, but we swallow our food properly so that we can let that little flap of cartilage do its job, which is to close off the larynx, close off that airway while the food is being directed into the esophagus and to the rest of the digestive system.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s015_u01",
+          "text": "So what causes choking?",
+          "start_time": 1024.01,
+          "end_time": 1027.37
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s015_u02",
+          "text": "A very nasty habit, of course, is eating and talking at the same time. I know a lot of people are guilty of it. My mom is very guilty of it.",
+          "start_time": 1028.09,
+          "end_time": 1037.29
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s015_u03",
+          "text": "But know that while we're eating and talking at the same time, we're eating and also bringing in air.",
+          "start_time": 1037.61,
+          "end_time": 1042.57
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s015_u04",
+          "text": "That epiglottis is supposed to cover that larynx so that food can continue on into the esophagus, which is located more posteriorly, because we know that the pharynx actually connects not only the nasal cavity but the oral cavity. So the epiglottis will close off the larynx to allow for food to be directed into the esophagus, which will lead into the stomach.",
+          "start_time": 1043.13,
+          "end_time": 1066.73
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s015_u05",
+          "text": "However, if that epiglottis doesn't close for whatever reason, if we're talking and eating at the same time, food may accidentally go into the larynx and cause us to choke.",
+          "start_time": 1067.77,
+          "end_time": 1081.93
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s015_u06",
+          "text": "So it's very important that, you know, not only do we not eat and talk at the same time, but we swallow our food properly so that we can let that little flap of cartilage do its job, which is to close off the larynx, close off that airway while the food is being directed into the esophagus and to the rest of the digestive system.",
+          "start_time": 1082.89,
+          "end_time": 1104.81
+        }
+      ]
+    },
+    {
+      "slide_index": 16,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0016.jpg",
+      "start_time": 1105.58,
+      "end_time": 1135.51,
+      "narration": "Okay, so as we can see, that little flap of cartilage has a very important function. So this whole structure is the larynx. We can see the hyoid bone just above the larynx. It's made up of different cartilages as well as different ligaments. The larynx is made up of the thyroid cartilage as well as the cricoid cartilage, which is then continuous with this tube called the trachea.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s016_u01",
+          "text": "Okay, so as we can see, that little flap of cartilage has a very important function.",
+          "start_time": 1105.64,
+          "end_time": 1111.96
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s016_u02",
+          "text": "So this whole structure is the larynx.",
+          "start_time": 1112.6,
+          "end_time": 1115.4
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s016_u03",
+          "text": "We can see the hyoid bone just above the larynx.",
+          "start_time": 1115.4,
+          "end_time": 1118.6
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s016_u04",
+          "text": "It's made up of different cartilages as well as different ligaments. The larynx is made up of the thyroid cartilage as well as the cricoid cartilage, which is then continuous with this tube called the trachea.",
+          "start_time": 1118.76,
+          "end_time": 1134.04
+        }
+      ]
+    },
+    {
+      "slide_index": 17,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0017.jpg",
+      "start_time": 1135.51,
+      "end_time": 1201.93,
+      "narration": "So once air has moved past the larynx, it will then move on to the trachea, which is a tube that transports air to and from the lungs. It is lined with epithelial tissue, that pseudostratified ciliated columnar epithelium that we talked about earlier before. It is made up of C-shaped cartilaginous rings and then connective tissue sort of connecting the ends of the C-shaped rings. Okay, and we also have smooth muscle that allows for movement within the trachea. So the trachea is kept open by C-shaped rings of cartilage. This allows for, the cartilage will keep the airway open at all times. However, we know that the cartilage doesn't go all the way around. This allows for the trachea to change in diameter and allows for that cough reflex.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s017_u01",
+          "text": "So once air has moved past the larynx, it will then move on to the trachea, which is a tube that transports air to and from the lungs.",
+          "start_time": 1139.09,
+          "end_time": 1150.05
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s017_u02",
+          "text": "It is lined with epithelial tissue, that pseudostratified ciliated columnar epithelium that we talked about earlier before.",
+          "start_time": 1150.45,
+          "end_time": 1158.21
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s017_u03",
+          "text": "It is made up of C-shaped cartilaginous rings and then connective tissue sort of connecting the ends of the C-shaped rings.",
+          "start_time": 1159.33,
+          "end_time": 1171.73
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s017_u04",
+          "text": "Okay, and we also have smooth muscle that allows for movement within the trachea.",
+          "start_time": 1172.21,
+          "end_time": 1179.73
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s017_u05",
+          "text": "So the trachea is kept open by C-shaped rings of cartilage. This allows for, the cartilage will keep the airway open at all times.",
+          "start_time": 1181.65,
+          "end_time": 1191.01
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s017_u06",
+          "text": "However, we know that the cartilage doesn't go all the way around. This allows for the trachea to change in diameter and allows for that cough reflex.",
+          "start_time": 1191.33,
+          "end_time": 1200.61
+        }
+      ]
+    },
+    {
+      "slide_index": 18,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0018.jpg",
+      "start_time": 1201.93,
+      "end_time": 1283.79,
+      "narration": "So here are some of the structures that we've gone over so far, especially the upper respiratory tract. We have the nose. And from the nose, air will travel into the nasal cavity. It will then hit that first part of the pharynx, which is the nasopharynx. And then we can see this part of the pharynx behind the oral cavity. That's the oropharynx. Here is that epiglottis, that flap of cartilage that directs food into the esophagus, which is located more posteriorly. Or if we are breathing in air, it will stay open so that air can then travel into that next part of the respiratory system, which is the larynx. We can see these folds right here. These are vocal folds that help with phonation or the production of sound and words. And then from the larynx, air will then enter the trachea, which is a little bit more posteriorly. So this actually should be a little bit lower than there. So this actually right here, down here, is the trachea and not up here. So if we kind of divide that, we can see the thyroid cartilage and then the cricoid cartilage, and then below it would be where the trachea starts.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s018_u01",
+          "text": "So here are some of the structures that we've gone over so far, especially the upper respiratory tract.",
+          "start_time": 1203.59,
+          "end_time": 1209.11
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s018_u02",
+          "text": "We have the nose. And from the nose, air will travel into the nasal cavity.",
+          "start_time": 1209.51,
+          "end_time": 1215.51
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s018_u03",
+          "text": "It will then hit that first part of the pharynx, which is the nasopharynx. And then we can see this part of the pharynx behind the oral cavity. That's the oropharynx.",
+          "start_time": 1215.91,
+          "end_time": 1225.59
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s018_u04",
+          "text": "Here is that epiglottis, that flap of cartilage that directs food into the esophagus, which is located more posteriorly. Or if we are breathing in air, it will stay open so that air can then travel into that next part of the respiratory system, which is the larynx.",
+          "start_time": 1225.99,
+          "end_time": 1243.91
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s018_u05",
+          "text": "We can see these folds right here. These are vocal folds that help with phonation or the production of sound and words.",
+          "start_time": 1244.31,
+          "end_time": 1253.43
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s018_u06",
+          "text": "And then from the larynx, air will then enter the trachea, which is a little bit more posteriorly. So this actually should be a little bit lower than there. So this actually right here, down here, is the trachea and not up here.",
+          "start_time": 1253.75,
+          "end_time": 1268.87
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s018_u07",
+          "text": "So if we kind of divide that, we can see the thyroid cartilage and then the cricoid cartilage, and then below it would be where the trachea starts.",
+          "start_time": 1270.39,
+          "end_time": 1279.03
+        }
+      ]
+    },
+    {
+      "slide_index": 19,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0019.jpg",
+      "start_time": 1283.79,
+      "end_time": 1379.57,
+      "narration": "So now we get into the lower respiratory tract. The trachea will fork or divide into two structures. We have the primary or main bronchi. So we have the right primary bronchus, bronchus is singular, and the left primary or main bronchus. So these two tubes will split off from the trachea, and then they get into smaller divisions of the bronchi. We have our secondary bronchi, which is our lobar bronchi. These are bronchi that go to the different lobes of the lung. We have three on the right and two on the left, three lobes on the right. So this is the right lung here, and this is the left lung here. So we can see we have one, two, three lobes on the right, and then one, two lobes on the left. The bronchi will go from the main or primary bronchi to the secondary or lobar bronchi, going to the different lobes of the lung, and then we have our tertiary or segmental bronchi, which goes to different segments within the lobes of the lung. And then after the tertiary bronchi, they will then further divide into structures called bronchioles. So these bronchioles are smaller tubes that branch off from the bronchi, okay? And the ends of the bronchioles are where we will find the alveoli.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s019_u01",
+          "text": "So now we get into the lower respiratory tract.",
+          "start_time": 1286.09,
+          "end_time": 1289.45
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s019_u02",
+          "text": "The trachea will fork or divide into two structures. We have the primary or main bronchi. So we have the right primary bronchus, bronchus is singular, and the left primary or main bronchus.",
+          "start_time": 1290.25,
+          "end_time": 1305.53
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s019_u03",
+          "text": "So these two tubes will split off from the trachea, and then they get into smaller divisions of the bronchi.",
+          "start_time": 1306.57,
+          "end_time": 1313.93
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s019_u04",
+          "text": "We have our secondary bronchi, which is our lobar bronchi. These are bronchi that go to the different lobes of the lung. We have three on the right and two on the left, three lobes on the right. So this is the right lung here, and this is the left lung here. So we can see we have one, two, three lobes on the right, and then one, two lobes on the left.",
+          "start_time": 1314.41,
+          "end_time": 1340.89
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s019_u05",
+          "text": "The bronchi will go from the main or primary bronchi to the secondary or lobar bronchi, going to the different lobes of the lung, and then we have our tertiary or segmental bronchi, which goes to different segments within the lobes of the lung.",
+          "start_time": 1342.33,
+          "end_time": 1357.37
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s019_u06",
+          "text": "And then after the tertiary bronchi, they will then further divide into structures called bronchioles. So these bronchioles are smaller tubes that branch off from the bronchi, okay?",
+          "start_time": 1358.09,
+          "end_time": 1372.25
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s019_u07",
+          "text": "And the ends of the bronchioles are where we will find the alveoli.",
+          "start_time": 1372.65,
+          "end_time": 1377.21
+        }
+      ]
+    },
+    {
+      "slide_index": 20,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0020.jpg",
+      "start_time": 1379.57,
+      "end_time": 1453.55,
+      "narration": "So what is asthma? Asthma are actually spasms of bronchial muscles that restrict airflow. Asthma can be characterized by reoccurring attacks of wheezing and difficulty breathing. You can actually, when you auscultate a patient with asthma and their lungs with a stethoscope, you can hear typical wheezing coming from that patient. This can also be due to persistent inflammation of the airways caused by pollutants and allergens. Patients with asthma are often prescribed inhalants, which will relax the bronchial muscles as well as reduce inflammation of the air tubules. So here we can actually see the normal structures within a normal patient. And then in a patient with asthma, we can see that there's more of a restriction caused by inflammation of the bronchial muscles, which will decrease the airways or the bronchioles within the lungs of an asthma patient.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s020_u01",
+          "text": "So what is asthma?",
+          "start_time": 1381.87,
+          "end_time": 1383.23
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s020_u02",
+          "text": "Asthma are actually spasms of bronchial muscles that restrict airflow. Asthma can be characterized by reoccurring attacks of wheezing and difficulty breathing.",
+          "start_time": 1384.67,
+          "end_time": 1397.07
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s020_u03",
+          "text": "You can actually, when you auscultate a patient with asthma and their lungs with a stethoscope, you can hear typical wheezing coming from that patient.",
+          "start_time": 1397.39,
+          "end_time": 1407.07
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s020_u04",
+          "text": "This can also be due to persistent inflammation of the airways caused by pollutants and allergens.",
+          "start_time": 1407.63,
+          "end_time": 1414.27
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s020_u05",
+          "text": "Patients with asthma are often prescribed inhalants, which will relax the bronchial muscles as well as reduce inflammation of the air tubules.",
+          "start_time": 1415.07,
+          "end_time": 1425.87
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s020_u06",
+          "text": "So here we can actually see the normal structures within a normal patient. And then in a patient with asthma, we can see that there's more of a restriction caused by inflammation of the bronchial muscles, which will decrease the airways or the bronchioles within the lungs of an asthma patient.",
+          "start_time": 1425.87,
+          "end_time": 1452.67
+        }
+      ]
+    },
+    {
+      "slide_index": 21,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0021.jpg",
+      "start_time": 1453.55,
+      "end_time": 1471.45,
+      "narration": "So we know that bronchioles will end in alveoli. They look like little grape clusters or single grapes within the grape clusters. So this structure, the alveoli, is where gas exchange occurs.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s021_u01",
+          "text": "So we know that bronchioles will end in alveoli.",
+          "start_time": 1455.85,
+          "end_time": 1459.05
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s021_u02",
+          "text": "They look like little grape clusters or single grapes within the grape clusters.",
+          "start_time": 1459.05,
+          "end_time": 1465.21
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s021_u03",
+          "text": "So this structure, the alveoli, is where gas exchange occurs.",
+          "start_time": 1465.77,
+          "end_time": 1470.73
+        }
+      ]
+    },
+    {
+      "slide_index": 22,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0022.jpg",
+      "start_time": 1471.45,
+      "end_time": 1509.5,
+      "narration": "So alveoli are the sites of gas exchange with the blood. This is the site of external respiration, the exchange of gases between the alveoli and blood capillaries. So here we see the bronchioles ending in these grape-like structures. The many of these structures are called alveoli. One little grape is called an alveolus, and we can see these alveoli are actually covered in blue lines, and these blue lines represent the capillaries.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s022_u01",
+          "text": "So alveoli are the sites of gas exchange with the blood. This is the site of external respiration, the exchange of gases between the alveoli and blood capillaries.",
+          "start_time": 1473.99,
+          "end_time": 1484.31
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s022_u02",
+          "text": "So here we see the bronchioles ending in these grape-like structures.",
+          "start_time": 1487.43,
+          "end_time": 1491.43
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s022_u03",
+          "text": "The many of these structures are called alveoli. One little grape is called an alveolus, and we can see these alveoli are actually covered in blue lines, and these blue lines represent the capillaries.",
+          "start_time": 1491.83,
+          "end_time": 1506.55
+        }
+      ]
+    },
+    {
+      "slide_index": 23,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0023.jpg",
+      "start_time": 1509.5,
+      "end_time": 1603.97,
+      "narration": "So the capillaries will actually transport deoxygenated blood, that is blood that contains red blood cells that are not carrying oxygen but are in fact carrying more carbon dioxide. So as the blood travels towards the alveoli, we can see that carbon dioxide is being dumped or being transported across the epithelium of the alveoli into the alveoli, and then as it further travels, it will pick up oxygen. This blood will then be transported back to the lungs and then back to the left side of the heart. So we know that alveoli are tiny air-filled sacs clustered at the end of bronchioles, and they are in fact wrapped with capillaries. The capillaries in the alveoli bring blood and air into close contact so that gas exchange can occur. Again, the alveoli are very thin-walled. They have a simple squamous epithelium that allow for this gas exchange to occur. So carbon dioxide is being dumped out into the alveoli, oxygen is being picked up into the capillaries. So we are able to exhale that carbon dioxide out of our lungs. Meanwhile, the oxygen that we breathe in can be transported and picked up by the hemoglobin-carrying red blood cells to be transported to the rest of our body.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u01",
+          "text": "So the capillaries will actually transport deoxygenated blood, that is blood that contains red blood cells that are not carrying oxygen but are in fact carrying more carbon dioxide.",
+          "start_time": 1512.92,
+          "end_time": 1526.12
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u02",
+          "text": "So as the blood travels towards the alveoli, we can see that carbon dioxide is being dumped or being transported across the epithelium of the alveoli into the alveoli, and then as it further travels, it will pick up oxygen.",
+          "start_time": 1526.68,
+          "end_time": 1544.36
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u03",
+          "text": "This blood will then be transported back to the lungs and then back to the left side of the heart.",
+          "start_time": 1544.76,
+          "end_time": 1553.56
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u04",
+          "text": "So we know that alveoli are tiny air-filled sacs clustered at the end of bronchioles, and they are in fact wrapped with capillaries.",
+          "start_time": 1554.12,
+          "end_time": 1562.92
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u05",
+          "text": "The capillaries in the alveoli bring blood and air into close contact so that gas exchange can occur.",
+          "start_time": 1563.4,
+          "end_time": 1570.68
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u06",
+          "text": "Again, the alveoli are very thin-walled. They have a simple squamous epithelium that allow for this gas exchange to occur.",
+          "start_time": 1570.76,
+          "end_time": 1577.88
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u07",
+          "text": "So carbon dioxide is being dumped out into the alveoli, oxygen is being picked up into the capillaries.",
+          "start_time": 1577.88,
+          "end_time": 1586.04
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u08",
+          "text": "So we are able to exhale that carbon dioxide out of our lungs.",
+          "start_time": 1586.04,
+          "end_time": 1592.28
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s023_u09",
+          "text": "Meanwhile, the oxygen that we breathe in can be transported and picked up by the hemoglobin-carrying red blood cells to be transported to the rest of our body.",
+          "start_time": 1593.24,
+          "end_time": 1602.68
+        }
+      ]
+    },
+    {
+      "slide_index": 24,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0024.jpg",
+      "start_time": 1603.97,
+      "end_time": 1661.81,
+      "narration": "So, of course, we have some disorders. We have respiratory distress syndrome. Usually, premature babies or babies born early, between 26 to 32 weeks, often have lung complications because their lungs have not matured yet. And because their lungs are immature, that means the alveoli have not fully inflated yet. So here we can see a picture of normal alveoli on this side, and here we see a deflated or a collapsed alveoli. But typically, premature babies can be successfully treated with therapy, specifically a surfactant therapy, which increases the surface area of these alveoli to allow for more gas exchange to occur.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s024_u01",
+          "text": "So, of course, we have some disorders. We have respiratory distress syndrome.",
+          "start_time": 1605.87,
+          "end_time": 1610.99
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s024_u02",
+          "text": "Usually, premature babies or babies born early, between 26 to 32 weeks, often have lung complications because their lungs have not matured yet. And because their lungs are immature, that means the alveoli have not fully inflated yet.",
+          "start_time": 1612.19,
+          "end_time": 1629.39
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s024_u03",
+          "text": "So here we can see a picture of normal alveoli on this side, and here we see a deflated or a collapsed alveoli.",
+          "start_time": 1629.87,
+          "end_time": 1640.43
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s024_u04",
+          "text": "But typically, premature babies can be successfully treated with therapy, specifically a surfactant therapy, which increases the surface area of these alveoli to allow for more gas exchange to occur.",
+          "start_time": 1642.19,
+          "end_time": 1659.79
+        }
+      ]
+    },
+    {
+      "slide_index": 25,
+      "image_path": "slide_images/bio-4_K9i7s33lM6Q/slide_0025.jpg",
+      "start_time": 1661.81,
+      "end_time": 1705.0,
+      "narration": "So we know that lungs do provide support, or they are a supportive tissue. They provide support to us, other respiratory system organs, and most importantly, allow for transport of air for gas exchange. So the primary function of our lungs, of course, is for gas exchange. Okay, without our lungs, the rest of our body would not have the vital oxygen it needs to perform its functions. So think of lungs as just a really great supportive type of tissue. And that is it for the respiratory system.",
+      "narration_units": [
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s025_u01",
+          "text": "So we know that lungs do provide support, or they are a supportive tissue. They provide support to us, other respiratory system organs, and most importantly, allow for transport of air for gas exchange.",
+          "start_time": 1665.55,
+          "end_time": 1681.39
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s025_u02",
+          "text": "So the primary function of our lungs, of course, is for gas exchange. Okay, without our lungs, the rest of our body would not have the vital oxygen it needs to perform its functions.",
+          "start_time": 1681.47,
+          "end_time": 1695.95
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s025_u03",
+          "text": "So think of lungs as just a really great supportive type of tissue.",
+          "start_time": 1696.19,
+          "end_time": 1700.99
+        },
+        {
+          "unit_id": "bio-4/K9i7s33lM6Q_s025_u04",
+          "text": "And that is it for the respiratory system.",
+          "start_time": 1701.79,
+          "end_time": 1703.87
+        }
+      ]
+    }
+  ]
+}
